@@ -1,0 +1,10 @@
+{
+  "synthetic_fault_injection": true,
+  "scaler_fit_rows": "all_rows",
+  "feature_selection_labels": "train_and_outer_test",
+  "split_unit": "row",
+  "same_deposit_allowed_across_folds": true,
+  "parameter_choice": "maximize_outer_test_AUC",
+  "reported_metric": "training_AUC",
+  "publish_claim": "discovery_probability_validated"
+}

@@ -1,0 +1,10 @@
+{
+  "synthetic": true,
+  "units": "Au ppm",
+  "ND": "not detected, limit not reported; do not invent limit",
+  "negative": "invalid in this synthetic contract",
+  "blank_rule": "value>5*DL warns",
+  "CRM_rule": "abs(z)>3 warns; sigma<=0 undefined",
+  "duplicate_rule": "RPD>20% warns only if mean>=5*DL; zero denominator undefined",
+  "affected_samples": "ordinary assay samples with same batch as a warned valid control; no claims about real lab accuracy"
+}

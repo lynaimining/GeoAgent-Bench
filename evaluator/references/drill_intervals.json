@@ -1,0 +1,12 @@
+{
+  "assay": {
+    "valid_n": 127,
+    "invalid": [],
+    "overlaps": []
+  },
+  "litho": {
+    "valid_n": 30,
+    "invalid": [],
+    "overlaps": []
+  }
+}

@@ -1,0 +1,4 @@
+﻿id,batch,certified_value,sigma,measured
+CRM1,B1,1,0.05,1.03
+CRM2,B2,1,0.05,1.25
+CRM3,B3,2,0,2.1

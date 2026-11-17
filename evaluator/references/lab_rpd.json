@@ -1,0 +1,18 @@
+{
+  "1": {
+    "RPD": 9.523809523809524,
+    "status": "pass"
+  },
+  "2": {
+    "RPD": 40,
+    "status": "warning"
+  },
+  "3": {
+    "RPD": 66.66666666666667,
+    "status": "low_concentration"
+  },
+  "4": {
+    "RPD": null,
+    "status": "zero_denominator"
+  }
+}

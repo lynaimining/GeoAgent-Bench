@@ -1,0 +1,2113 @@
+{
+  "rows": [
+    {
+      "hole_id": "DEMO-1-01",
+      "from": 0,
+      "to": 2,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.07,
+      "source_rows": [
+        1
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-01",
+      "from": 2,
+      "to": 4,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.22,
+      "source_rows": [
+        1,
+        2
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-01",
+      "from": 4,
+      "to": 6,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.37,
+      "source_rows": [
+        2
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-01",
+      "from": 6,
+      "to": 8,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.67,
+      "source_rows": [
+        3
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-01",
+      "from": 8,
+      "to": 10,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.8200000000000001,
+      "source_rows": [
+        3,
+        4
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-01",
+      "from": 10,
+      "to": 12,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.97,
+      "source_rows": [
+        4
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-01",
+      "from": 12,
+      "to": 14,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.27,
+      "source_rows": [
+        5
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-01",
+      "from": 14,
+      "to": 16,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.42,
+      "source_rows": [
+        5,
+        6
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-01",
+      "from": 16,
+      "to": 18,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.57,
+      "source_rows": [
+        6
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-01",
+      "from": 18,
+      "to": 20,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.87,
+      "source_rows": [
+        7
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-01",
+      "from": 20,
+      "to": 22,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.07,
+      "source_rows": [
+        7,
+        8
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-01",
+      "from": 22,
+      "to": 24,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.27,
+      "source_rows": [
+        8
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-01",
+      "from": 24,
+      "to": 26,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.57,
+      "source_rows": [
+        9
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-01",
+      "from": 26,
+      "to": 28,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.72,
+      "source_rows": [
+        9,
+        10
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-01",
+      "from": 28,
+      "to": 30,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.87,
+      "source_rows": [
+        10
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-01",
+      "from": 30,
+      "to": 32,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.17,
+      "source_rows": [
+        11
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "from": 0,
+      "to": 2,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.77,
+      "source_rows": [
+        12
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "from": 2,
+      "to": 4,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.92,
+      "source_rows": [
+        12,
+        13
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "from": 4,
+      "to": 6,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.07,
+      "source_rows": [
+        13
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "from": 6,
+      "to": 8,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.37,
+      "source_rows": [
+        14
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "from": 8,
+      "to": 10,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.52,
+      "source_rows": [
+        14,
+        15
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "from": 10,
+      "to": 12,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.67,
+      "source_rows": [
+        15
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "from": 12,
+      "to": 14,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.07,
+      "source_rows": [
+        16
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "from": 14,
+      "to": 16,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.22,
+      "source_rows": [
+        16,
+        17
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "from": 16,
+      "to": 18,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.37,
+      "source_rows": [
+        17
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "from": 18,
+      "to": 20,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.67,
+      "source_rows": [
+        18
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "from": 20,
+      "to": 22,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.8200000000000001,
+      "source_rows": [
+        18,
+        19
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "from": 22,
+      "to": 24,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.97,
+      "source_rows": [
+        19
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "from": 24,
+      "to": 26,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.27,
+      "source_rows": [
+        20
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "from": 26,
+      "to": 28,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.42,
+      "source_rows": [
+        20,
+        21
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "from": 28,
+      "to": 30,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.57,
+      "source_rows": [
+        21
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "from": 30,
+      "to": 32,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.87,
+      "source_rows": [
+        22
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "from": 32,
+      "to": 34,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.07,
+      "source_rows": [
+        22,
+        23
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "from": 34,
+      "to": 36,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.27,
+      "source_rows": [
+        23
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "from": 0,
+      "to": 2,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.47,
+      "source_rows": [
+        24
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "from": 2,
+      "to": 4,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.62,
+      "source_rows": [
+        24,
+        25
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "from": 4,
+      "to": 6,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.77,
+      "source_rows": [
+        25
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "from": 6,
+      "to": 8,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.17,
+      "source_rows": [
+        26
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "from": 8,
+      "to": 10,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.32,
+      "source_rows": [
+        26,
+        27
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "from": 10,
+      "to": 12,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.47,
+      "source_rows": [
+        27
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "from": 12,
+      "to": 14,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.77,
+      "source_rows": [
+        28
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "from": 14,
+      "to": 16,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.92,
+      "source_rows": [
+        28,
+        29
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "from": 16,
+      "to": 18,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.07,
+      "source_rows": [
+        29
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "from": 18,
+      "to": 20,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.37,
+      "source_rows": [
+        30
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "from": 20,
+      "to": 22,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.52,
+      "source_rows": [
+        30,
+        31
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "from": 22,
+      "to": 24,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.67,
+      "source_rows": [
+        31
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "from": 24,
+      "to": 26,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.07,
+      "source_rows": [
+        32
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "from": 26,
+      "to": 28,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.22,
+      "source_rows": [
+        32,
+        33
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "from": 28,
+      "to": 30,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.37,
+      "source_rows": [
+        33
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "from": 30,
+      "to": 32,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.67,
+      "source_rows": [
+        34
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "from": 32,
+      "to": 34,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.8200000000000001,
+      "source_rows": [
+        34,
+        35
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "from": 34,
+      "to": 36,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.97,
+      "source_rows": [
+        35
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "from": 36,
+      "to": 38,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.27,
+      "source_rows": [
+        36
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "from": 38,
+      "to": 40,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.42,
+      "source_rows": [
+        36,
+        37
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "from": 0,
+      "to": 2,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.27,
+      "source_rows": [
+        38
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "from": 2,
+      "to": 4,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.42,
+      "source_rows": [
+        38,
+        39
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "from": 4,
+      "to": 6,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.57,
+      "source_rows": [
+        39
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "from": 6,
+      "to": 8,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.87,
+      "source_rows": [
+        40
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "from": 8,
+      "to": 10,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.02,
+      "source_rows": [
+        40,
+        41
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "from": 10,
+      "to": 12,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.17,
+      "source_rows": [
+        41
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "from": 12,
+      "to": 14,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.47,
+      "source_rows": [
+        42
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "from": 14,
+      "to": 16,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.62,
+      "source_rows": [
+        42,
+        43
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "from": 16,
+      "to": 18,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.77,
+      "source_rows": [
+        43
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "from": 18,
+      "to": 20,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.17,
+      "source_rows": [
+        44
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "from": 20,
+      "to": 22,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.32,
+      "source_rows": [
+        44,
+        45
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "from": 22,
+      "to": 24,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.47,
+      "source_rows": [
+        45
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "from": 24,
+      "to": 26,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.77,
+      "source_rows": [
+        46
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "from": 26,
+      "to": 28,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.92,
+      "source_rows": [
+        46,
+        47
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "from": 28,
+      "to": 30,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.07,
+      "source_rows": [
+        47
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "from": 30,
+      "to": 32,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.37,
+      "source_rows": [
+        48
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "from": 32,
+      "to": 34,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.52,
+      "source_rows": [
+        48,
+        49
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "from": 34,
+      "to": 36,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.67,
+      "source_rows": [
+        49
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "from": 36,
+      "to": 38,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.07,
+      "source_rows": [
+        50
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "from": 38,
+      "to": 40,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.22,
+      "source_rows": [
+        50,
+        51
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "from": 40,
+      "to": 42,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.37,
+      "source_rows": [
+        51
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "from": 42,
+      "to": 44,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.67,
+      "source_rows": [
+        52
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-05",
+      "from": 0,
+      "to": 2,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.97,
+      "source_rows": [
+        53
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-05",
+      "from": 2,
+      "to": 4,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.12,
+      "source_rows": [
+        53,
+        54
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-05",
+      "from": 4,
+      "to": 6,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.27,
+      "source_rows": [
+        54
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-05",
+      "from": 6,
+      "to": 8,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.57,
+      "source_rows": [
+        55
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-05",
+      "from": 8,
+      "to": 10,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.7200000000000002,
+      "source_rows": [
+        55,
+        56
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-05",
+      "from": 10,
+      "to": 12,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.87,
+      "source_rows": [
+        56
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-05",
+      "from": 12,
+      "to": 14,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.27,
+      "source_rows": [
+        57
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-05",
+      "from": 14,
+      "to": 16,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.42,
+      "source_rows": [
+        57,
+        58
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-05",
+      "from": 16,
+      "to": 18,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.57,
+      "source_rows": [
+        58
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-05",
+      "from": 18,
+      "to": 20,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.87,
+      "source_rows": [
+        59
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-05",
+      "from": 20,
+      "to": 22,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.02,
+      "source_rows": [
+        59,
+        60
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-05",
+      "from": 22,
+      "to": 24,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.17,
+      "source_rows": [
+        60
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-05",
+      "from": 24,
+      "to": 26,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.47,
+      "source_rows": [
+        61
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-05",
+      "from": 26,
+      "to": 28,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.62,
+      "source_rows": [
+        61,
+        62
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-05",
+      "from": 28,
+      "to": 30,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.77,
+      "source_rows": [
+        62
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-05",
+      "from": 30,
+      "to": 32,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.17,
+      "source_rows": [
+        63
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-06",
+      "from": 0,
+      "to": 2,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.67,
+      "source_rows": [
+        64
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-06",
+      "from": 2,
+      "to": 4,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.87,
+      "source_rows": [
+        64,
+        65
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-06",
+      "from": 4,
+      "to": 6,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.07,
+      "source_rows": [
+        65
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-06",
+      "from": 6,
+      "to": 8,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.37,
+      "source_rows": [
+        66
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-06",
+      "from": 8,
+      "to": 10,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.52,
+      "source_rows": [
+        66,
+        67
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-06",
+      "from": 10,
+      "to": 12,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.67,
+      "source_rows": [
+        67
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-06",
+      "from": 12,
+      "to": 14,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.97,
+      "source_rows": [
+        68
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-06",
+      "from": 14,
+      "to": 16,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.12,
+      "source_rows": [
+        68,
+        69
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-06",
+      "from": 16,
+      "to": 18,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.27,
+      "source_rows": [
+        69
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-06",
+      "from": 18,
+      "to": 20,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.57,
+      "source_rows": [
+        70
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-06",
+      "from": 20,
+      "to": 22,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.7200000000000002,
+      "source_rows": [
+        70,
+        71
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-06",
+      "from": 22,
+      "to": 24,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.87,
+      "source_rows": [
+        71
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-06",
+      "from": 24,
+      "to": 26,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.27,
+      "source_rows": [
+        72
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-06",
+      "from": 26,
+      "to": 28,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.42,
+      "source_rows": [
+        72,
+        73
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-06",
+      "from": 28,
+      "to": 30,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.57,
+      "source_rows": [
+        73
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-06",
+      "from": 30,
+      "to": 32,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.87,
+      "source_rows": [
+        74
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-06",
+      "from": 32,
+      "to": 34,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.02,
+      "source_rows": [
+        74,
+        75
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-06",
+      "from": 34,
+      "to": 36,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.17,
+      "source_rows": [
+        75
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "from": 0,
+      "to": 2,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.47,
+      "source_rows": [
+        76
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "from": 2,
+      "to": 4,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.62,
+      "source_rows": [
+        76,
+        77
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "from": 4,
+      "to": 6,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.77,
+      "source_rows": [
+        77
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "from": 6,
+      "to": 8,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.07,
+      "source_rows": [
+        78
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "from": 8,
+      "to": 10,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.2200000000000002,
+      "source_rows": [
+        78,
+        79
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "from": 10,
+      "to": 12,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.37,
+      "source_rows": [
+        79
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "from": 12,
+      "to": 14,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.67,
+      "source_rows": [
+        80
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "from": 14,
+      "to": 16,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.87,
+      "source_rows": [
+        80,
+        81
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "from": 16,
+      "to": 18,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.07,
+      "source_rows": [
+        81
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "from": 18,
+      "to": 20,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.37,
+      "source_rows": [
+        82
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "from": 20,
+      "to": 22,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.52,
+      "source_rows": [
+        82,
+        83
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "from": 22,
+      "to": 24,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.67,
+      "source_rows": [
+        83
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "from": 24,
+      "to": 26,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.97,
+      "source_rows": [
+        84
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "from": 26,
+      "to": 28,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.12,
+      "source_rows": [
+        84,
+        85
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "from": 28,
+      "to": 30,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.27,
+      "source_rows": [
+        85
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "from": 30,
+      "to": 32,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.57,
+      "source_rows": [
+        86
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "from": 32,
+      "to": 34,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.7200000000000002,
+      "source_rows": [
+        86,
+        87
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "from": 34,
+      "to": 36,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.87,
+      "source_rows": [
+        87
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "from": 36,
+      "to": 38,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.27,
+      "source_rows": [
+        88
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "from": 38,
+      "to": 40,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.42,
+      "source_rows": [
+        88,
+        89
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "from": 0,
+      "to": 2,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.17,
+      "source_rows": [
+        90
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "from": 2,
+      "to": 4,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.3199999999999998,
+      "source_rows": [
+        90,
+        91
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "from": 4,
+      "to": 6,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.47,
+      "source_rows": [
+        91
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "from": 6,
+      "to": 8,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.77,
+      "source_rows": [
+        92
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "from": 8,
+      "to": 10,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.97,
+      "source_rows": [
+        92,
+        93
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "from": 10,
+      "to": 12,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.17,
+      "source_rows": [
+        93
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "from": 12,
+      "to": 14,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.47,
+      "source_rows": [
+        94
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "from": 14,
+      "to": 16,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.62,
+      "source_rows": [
+        94,
+        95
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "from": 16,
+      "to": 18,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.77,
+      "source_rows": [
+        95
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "from": 18,
+      "to": 20,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.07,
+      "source_rows": [
+        96
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "from": 20,
+      "to": 22,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.2200000000000002,
+      "source_rows": [
+        96,
+        97
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "from": 22,
+      "to": 24,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.37,
+      "source_rows": [
+        97
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "from": 24,
+      "to": 26,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.67,
+      "source_rows": [
+        98
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "from": 26,
+      "to": 28,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.87,
+      "source_rows": [
+        98,
+        99
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "from": 28,
+      "to": 30,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.07,
+      "source_rows": [
+        99
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "from": 30,
+      "to": 32,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.37,
+      "source_rows": [
+        100
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "from": 32,
+      "to": 34,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.52,
+      "source_rows": [
+        100,
+        101
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "from": 34,
+      "to": 36,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.67,
+      "source_rows": [
+        101
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "from": 36,
+      "to": 38,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.97,
+      "source_rows": [
+        102
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "from": 38,
+      "to": 40,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.12,
+      "source_rows": [
+        102,
+        103
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "from": 40,
+      "to": 42,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.27,
+      "source_rows": [
+        103
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "from": 42,
+      "to": 44,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.57,
+      "source_rows": [
+        104
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-09",
+      "from": 0,
+      "to": 2,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.87,
+      "source_rows": [
+        105
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-09",
+      "from": 2,
+      "to": 4,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.07,
+      "source_rows": [
+        105,
+        106
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-09",
+      "from": 4,
+      "to": 6,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.27,
+      "source_rows": [
+        106
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-09",
+      "from": 6,
+      "to": 8,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.57,
+      "source_rows": [
+        107
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-09",
+      "from": 8,
+      "to": 10,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.72,
+      "source_rows": [
+        107,
+        108
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-09",
+      "from": 10,
+      "to": 12,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.87,
+      "source_rows": [
+        108
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-09",
+      "from": 12,
+      "to": 14,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.17,
+      "source_rows": [
+        109
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-09",
+      "from": 14,
+      "to": 16,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.3199999999999998,
+      "source_rows": [
+        109,
+        110
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-09",
+      "from": 16,
+      "to": 18,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.47,
+      "source_rows": [
+        110
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-09",
+      "from": 18,
+      "to": 20,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.77,
+      "source_rows": [
+        111
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-09",
+      "from": 20,
+      "to": 22,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.97,
+      "source_rows": [
+        111,
+        112
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-09",
+      "from": 22,
+      "to": 24,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.17,
+      "source_rows": [
+        112
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-09",
+      "from": 24,
+      "to": 26,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.47,
+      "source_rows": [
+        113
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-09",
+      "from": 26,
+      "to": 28,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.62,
+      "source_rows": [
+        113,
+        114
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-09",
+      "from": 28,
+      "to": 30,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.77,
+      "source_rows": [
+        114
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-09",
+      "from": 30,
+      "to": 32,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.07,
+      "source_rows": [
+        115
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-10",
+      "from": 0,
+      "to": 2,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.67,
+      "source_rows": [
+        116
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-10",
+      "from": 2,
+      "to": 4,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.8200000000000001,
+      "source_rows": [
+        116,
+        117
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-10",
+      "from": 4,
+      "to": 6,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.97,
+      "source_rows": [
+        117
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-10",
+      "from": 6,
+      "to": 8,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.27,
+      "source_rows": [
+        118
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-10",
+      "from": 8,
+      "to": 10,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.42,
+      "source_rows": [
+        118,
+        119
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-10",
+      "from": 10,
+      "to": 12,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.57,
+      "source_rows": [
+        119
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-10",
+      "from": 12,
+      "to": 14,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.87,
+      "source_rows": [
+        120
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-10",
+      "from": 14,
+      "to": 16,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.07,
+      "source_rows": [
+        120,
+        121
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-10",
+      "from": 16,
+      "to": 18,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.27,
+      "source_rows": [
+        121
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-10",
+      "from": 18,
+      "to": 20,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.57,
+      "source_rows": [
+        122
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-10",
+      "from": 20,
+      "to": 22,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.72,
+      "source_rows": [
+        122,
+        123
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-10",
+      "from": 22,
+      "to": 24,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.87,
+      "source_rows": [
+        123
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-10",
+      "from": 24,
+      "to": 26,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.17,
+      "source_rows": [
+        124
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-10",
+      "from": 26,
+      "to": 28,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.3199999999999998,
+      "source_rows": [
+        124,
+        125
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-10",
+      "from": 28,
+      "to": 30,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.47,
+      "source_rows": [
+        125
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-10",
+      "from": 30,
+      "to": 32,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 1.77,
+      "source_rows": [
+        126
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-10",
+      "from": 32,
+      "to": 34,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.97,
+      "source_rows": [
+        126,
+        127
+      ]
+    },
+    {
+      "hole_id": "DEMO-1-10",
+      "from": 34,
+      "to": 36,
+      "sampled_length": 2.0,
+      "coverage": 1.0,
+      "au_native": 0.17,
+      "source_rows": [
+        127
+      ]
+    }
+  ],
+  "excluded_overlapping_rows": [],
+  "weighted_sum": 357.94
+}

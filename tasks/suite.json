@@ -1,0 +1,108 @@
+{
+  "counts": {
+    "total": 200,
+    "single": 170,
+    "composite": 30,
+    "origin": {
+      "adapted": 118,
+      "public_original": 26,
+      "new": 56
+    }
+  },
+  "domains": [
+    {
+      "code": "01",
+      "name": "项目数据接入与整理",
+      "single": 16,
+      "composite": 2
+    },
+    {
+      "code": "02",
+      "name": "空间参考与数据质量",
+      "single": 16,
+      "composite": 2
+    },
+    {
+      "code": "03",
+      "name": "属性查询与空间数据库",
+      "single": 16,
+      "composite": 2
+    },
+    {
+      "code": "04",
+      "name": "矢量空间分析与网络分析",
+      "single": 20,
+      "composite": 3
+    },
+    {
+      "code": "05",
+      "name": "MPM 成矿预测分析",
+      "single": 14,
+      "composite": 3
+    },
+    {
+      "code": "06",
+      "name": "遥感与栅格分析",
+      "single": 22,
+      "composite": 4
+    },
+    {
+      "code": "07",
+      "name": "地球化学分析",
+      "single": 12,
+      "composite": 2
+    },
+    {
+      "code": "08",
+      "name": "钻孔数据与井下空间分析",
+      "single": 14,
+      "composite": 3
+    },
+    {
+      "code": "09",
+      "name": "三维地质与地下空间表达",
+      "single": 10,
+      "composite": 2
+    },
+    {
+      "code": "10",
+      "name": "空间统计与插值",
+      "single": 10,
+      "composite": 2
+    },
+    {
+      "code": "11",
+      "name": "块模型与资源量计算",
+      "single": 6,
+      "composite": 1
+    },
+    {
+      "code": "12",
+      "name": "地图制图与成果交付",
+      "single": 8,
+      "composite": 2
+    },
+    {
+      "code": "13",
+      "name": "技术报告与证据追溯",
+      "single": 6,
+      "composite": 2
+    }
+  ],
+  "name": "GeoAgent-Bench",
+  "version": "1.0.0",
+  "edition_date": "2026-11-17",
+  "executed_agent_runs": 0,
+  "data_variant_counts": {
+    "curated": 152,
+    "synthetic_replacement": 48
+  },
+  "grading": {
+    "review": 123,
+    "postgis_and_review": 18,
+    "reference_review": 50,
+    "visual_review": 5,
+    "application_review": 4
+  },
+  "noncommercial_cases": 26
+}

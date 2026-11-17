@@ -1,0 +1,10 @@
+{
+  "synthetic_scenario": true,
+  "density_rule": "For each distinct Series label, assign 2.70 t/m³; this is an explicit constant teaching scenario, not measured or literature-derived density. Missing/blank Series -> unevaluable.",
+  "density_t_m3": 2.7,
+  "block_size_m": [
+    5,
+    5,
+    5
+  ]
+}

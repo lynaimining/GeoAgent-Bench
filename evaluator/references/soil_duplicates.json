@@ -1,0 +1,4404 @@
+{
+  "medium+SampleNo": [
+    [
+      {
+        "medium": "2mm",
+        "row_number": 29,
+        "SampleNo": "SYN-028",
+        "Source": "Batch-2",
+        "x": 510035.0,
+        "y": 6449915.0,
+        "Au_ppb": 13.75
+      },
+      {
+        "medium": "2mm",
+        "row_number": 30,
+        "SampleNo": "SYN-028",
+        "Source": "Batch-3",
+        "x": 510050.0,
+        "y": 6449915.0,
+        "Au_ppb": 17.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 61,
+        "SampleNo": "SYN-060",
+        "Source": "Batch-1",
+        "x": 509945.0,
+        "y": 6449945.0,
+        "Au_ppb": 20.25
+      },
+      {
+        "medium": "2mm",
+        "row_number": 62,
+        "SampleNo": "SYN-060",
+        "Source": "Batch-2",
+        "x": 509945.0,
+        "y": 6449945.0,
+        "Au_ppb": 4.0
+      }
+    ],
+    [
+      {
+        "medium": "80mesh",
+        "row_number": 29,
+        "SampleNo": "SYN-028",
+        "Source": "Batch-2",
+        "x": 510039.0,
+        "y": 6449918.0,
+        "Au_ppb": 19.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 30,
+        "SampleNo": "SYN-028",
+        "Source": "Batch-3",
+        "x": 510054.0,
+        "y": 6449918.0,
+        "Au_ppb": 3.25
+      }
+    ],
+    [
+      {
+        "medium": "80mesh",
+        "row_number": 61,
+        "SampleNo": "SYN-060",
+        "Source": "Batch-1",
+        "x": 509949.0,
+        "y": 6449948.0,
+        "Au_ppb": 5.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 62,
+        "SampleNo": "SYN-060",
+        "Source": "Batch-2",
+        "x": 509949.0,
+        "y": 6449948.0,
+        "Au_ppb": 9.75
+      }
+    ]
+  ],
+  "medium+x+y": [
+    [
+      {
+        "medium": "2mm",
+        "row_number": 31,
+        "SampleNo": "SYN-030",
+        "Source": "Batch-1",
+        "x": 510065.0,
+        "y": 6449915.0,
+        "Au_ppb": 21.75
+      },
+      {
+        "medium": "2mm",
+        "row_number": 32,
+        "SampleNo": "SYN-031",
+        "Source": "Batch-2",
+        "x": 510065.0,
+        "y": 6449915.0,
+        "Au_ppb": 5.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 61,
+        "SampleNo": "SYN-060",
+        "Source": "Batch-1",
+        "x": 509945.0,
+        "y": 6449945.0,
+        "Au_ppb": 20.25
+      },
+      {
+        "medium": "2mm",
+        "row_number": 62,
+        "SampleNo": "SYN-060",
+        "Source": "Batch-2",
+        "x": 509945.0,
+        "y": 6449945.0,
+        "Au_ppb": 4.0
+      }
+    ],
+    [
+      {
+        "medium": "80mesh",
+        "row_number": 31,
+        "SampleNo": "SYN-030",
+        "Source": "Batch-1",
+        "x": 510069.0,
+        "y": 6449918.0,
+        "Au_ppb": 7.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 32,
+        "SampleNo": "SYN-031",
+        "Source": "Batch-2",
+        "x": 510069.0,
+        "y": 6449918.0,
+        "Au_ppb": 11.25
+      }
+    ],
+    [
+      {
+        "medium": "80mesh",
+        "row_number": 61,
+        "SampleNo": "SYN-060",
+        "Source": "Batch-1",
+        "x": 509949.0,
+        "y": 6449948.0,
+        "Au_ppb": 5.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 62,
+        "SampleNo": "SYN-060",
+        "Source": "Batch-2",
+        "x": 509949.0,
+        "y": 6449948.0,
+        "Au_ppb": 9.75
+      }
+    ]
+  ],
+  "SampleNo": [
+    [
+      {
+        "medium": "2mm",
+        "row_number": 1,
+        "SampleNo": "SYN-000",
+        "Source": "Batch-1",
+        "x": 509900.0,
+        "y": 6449900.0,
+        "Au_ppb": 43.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 1,
+        "SampleNo": "SYN-000",
+        "Source": "Batch-1",
+        "x": 509904.0,
+        "y": 6449903.0,
+        "Au_ppb": 48.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 2,
+        "SampleNo": "SYN-001",
+        "Source": "Batch-2",
+        "x": 509915.0,
+        "y": 6449900.0,
+        "Au_ppb": 7.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 2,
+        "SampleNo": "SYN-001",
+        "Source": "Batch-2",
+        "x": 509919.0,
+        "y": 6449903.0,
+        "Au_ppb": 12.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 3,
+        "SampleNo": "SYN-002",
+        "Source": "Batch-3",
+        "x": 509930.0,
+        "y": 6449900.0,
+        "Au_ppb": 11.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 3,
+        "SampleNo": "SYN-002",
+        "Source": "Batch-3",
+        "x": 509934.0,
+        "y": 6449903.0,
+        "Au_ppb": 16.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 4,
+        "SampleNo": "SYN-003",
+        "Source": "Batch-1",
+        "x": 509945.0,
+        "y": 6449900.0,
+        "Au_ppb": 15.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 4,
+        "SampleNo": "SYN-003",
+        "Source": "Batch-1",
+        "x": 509949.0,
+        "y": 6449903.0,
+        "Au_ppb": 20.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 5,
+        "SampleNo": "SYN-004",
+        "Source": "Batch-2",
+        "x": 509960.0,
+        "y": 6449900.0,
+        "Au_ppb": 0.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 5,
+        "SampleNo": "SYN-004",
+        "Source": "Batch-2",
+        "x": 509964.0,
+        "y": 6449903.0,
+        "Au_ppb": 0.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 6,
+        "SampleNo": "SYN-005",
+        "Source": "Batch-3",
+        "x": 509975.0,
+        "y": 6449900.0,
+        "Au_ppb": 23.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 6,
+        "SampleNo": "SYN-005",
+        "Source": "Batch-3",
+        "x": 509979.0,
+        "y": 6449903.0,
+        "Au_ppb": 8.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 7,
+        "SampleNo": "SYN-006",
+        "Source": "Batch-1",
+        "x": 509990.0,
+        "y": 6449900.0,
+        "Au_ppb": 6.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 7,
+        "SampleNo": "SYN-006",
+        "Source": "Batch-1",
+        "x": 509994.0,
+        "y": 6449903.0,
+        "Au_ppb": 12.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 8,
+        "SampleNo": "SYN-007",
+        "Source": "Batch-2",
+        "x": 510005.0,
+        "y": 6449900.0,
+        "Au_ppb": 10.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 8,
+        "SampleNo": "SYN-007",
+        "Source": "Batch-2",
+        "x": 510009.0,
+        "y": 6449903.0,
+        "Au_ppb": 16.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 9,
+        "SampleNo": "SYN-008",
+        "Source": "Batch-3",
+        "x": 510020.0,
+        "y": 6449900.0,
+        "Au_ppb": 14.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 9,
+        "SampleNo": "SYN-008",
+        "Source": "Batch-3",
+        "x": 510024.0,
+        "y": 6449903.0,
+        "Au_ppb": 20.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 10,
+        "SampleNo": "SYN-009",
+        "Source": "Batch-1",
+        "x": 510035.0,
+        "y": 6449900.0,
+        "Au_ppb": 18.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 10,
+        "SampleNo": "SYN-009",
+        "Source": "Batch-1",
+        "x": 510039.0,
+        "y": 6449903.0,
+        "Au_ppb": 4.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 11,
+        "SampleNo": "SYN-010",
+        "Source": "Batch-2",
+        "x": 510050.0,
+        "y": 6449900.0,
+        "Au_ppb": 22.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 11,
+        "SampleNo": "SYN-010",
+        "Source": "Batch-2",
+        "x": 510054.0,
+        "y": 6449903.0,
+        "Au_ppb": 8.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 12,
+        "SampleNo": "SYN-011",
+        "Source": "Batch-3",
+        "x": 510065.0,
+        "y": 6449900.0,
+        "Au_ppb": -1.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 12,
+        "SampleNo": "SYN-011",
+        "Source": "Batch-3",
+        "x": 510069.0,
+        "y": 6449903.0,
+        "Au_ppb": -1.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 13,
+        "SampleNo": "SYN-012",
+        "Source": "Batch-1",
+        "x": 510080.0,
+        "y": 6449900.0,
+        "Au_ppb": 10.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 13,
+        "SampleNo": "SYN-012",
+        "Source": "Batch-1",
+        "x": 510084.0,
+        "y": 6449903.0,
+        "Au_ppb": 16.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 14,
+        "SampleNo": "SYN-013",
+        "Source": "Batch-2",
+        "x": 510095.0,
+        "y": 6449900.0,
+        "Au_ppb": 14.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 14,
+        "SampleNo": "SYN-013",
+        "Source": "Batch-2",
+        "x": 510099.0,
+        "y": 6449903.0,
+        "Au_ppb": 20.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 15,
+        "SampleNo": "SYN-014",
+        "Source": "Batch-3",
+        "x": 510110.0,
+        "y": 6449900.0,
+        "Au_ppb": 18.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 15,
+        "SampleNo": "SYN-014",
+        "Source": "Batch-3",
+        "x": 510114.0,
+        "y": 6449903.0,
+        "Au_ppb": 4.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 16,
+        "SampleNo": "SYN-015",
+        "Source": "Batch-1",
+        "x": 510125.0,
+        "y": 6449900.0,
+        "Au_ppb": 22.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 16,
+        "SampleNo": "SYN-015",
+        "Source": "Batch-1",
+        "x": 510129.0,
+        "y": 6449903.0,
+        "Au_ppb": 8.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 17,
+        "SampleNo": "SYN-016",
+        "Source": "Batch-2",
+        "x": 510140.0,
+        "y": 6449900.0,
+        "Au_ppb": 6.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 17,
+        "SampleNo": "SYN-016",
+        "Source": "Batch-2",
+        "x": 510144.0,
+        "y": 6449903.0,
+        "Au_ppb": 12.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 18,
+        "SampleNo": "SYN-017",
+        "Source": "Batch-3",
+        "x": 510155.0,
+        "y": 6449900.0,
+        "Au_ppb": 10.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 18,
+        "SampleNo": "SYN-017",
+        "Source": "Batch-3",
+        "x": 510159.0,
+        "y": 6449903.0,
+        "Au_ppb": 16.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 19,
+        "SampleNo": "SYN-018",
+        "Source": "Batch-1",
+        "x": 510170.0,
+        "y": 6449900.0,
+        "Au_ppb": null
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 19,
+        "SampleNo": "SYN-018",
+        "Source": "Batch-1",
+        "x": 510174.0,
+        "y": 6449903.0,
+        "Au_ppb": null
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 20,
+        "SampleNo": "SYN-019",
+        "Source": "Batch-2",
+        "x": 509900.0,
+        "y": 6449915.0,
+        "Au_ppb": 18.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 20,
+        "SampleNo": "SYN-019",
+        "Source": "Batch-2",
+        "x": 509904.0,
+        "y": 6449918.0,
+        "Au_ppb": 3.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 21,
+        "SampleNo": "SYN-020",
+        "Source": "Batch-3",
+        "x": 509915.0,
+        "y": 6449915.0,
+        "Au_ppb": 22.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 21,
+        "SampleNo": "SYN-020",
+        "Source": "Batch-3",
+        "x": 509919.0,
+        "y": 6449918.0,
+        "Au_ppb": 7.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 22,
+        "SampleNo": "SYN-021",
+        "Source": "Batch-1",
+        "x": 509930.0,
+        "y": 6449915.0,
+        "Au_ppb": 6.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 22,
+        "SampleNo": "SYN-021",
+        "Source": "Batch-1",
+        "x": 509934.0,
+        "y": 6449918.0,
+        "Au_ppb": 11.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 23,
+        "SampleNo": "SYN-022",
+        "Source": "Batch-2",
+        "x": 509945.0,
+        "y": 6449915.0,
+        "Au_ppb": 10.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 23,
+        "SampleNo": "SYN-022",
+        "Source": "Batch-2",
+        "x": 509949.0,
+        "y": 6449918.0,
+        "Au_ppb": 15.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 24,
+        "SampleNo": "SYN-023",
+        "Source": "Batch-3",
+        "x": 509960.0,
+        "y": 6449915.0,
+        "Au_ppb": 14.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 24,
+        "SampleNo": "SYN-023",
+        "Source": "Batch-3",
+        "x": 509964.0,
+        "y": 6449918.0,
+        "Au_ppb": 19.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 25,
+        "SampleNo": "SYN-024",
+        "Source": "Batch-1",
+        "x": 509975.0,
+        "y": 6449915.0,
+        "Au_ppb": 18.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 25,
+        "SampleNo": "SYN-024",
+        "Source": "Batch-1",
+        "x": 509979.0,
+        "y": 6449918.0,
+        "Au_ppb": 3.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 26,
+        "SampleNo": "SYN-025",
+        "Source": "Batch-2",
+        "x": 509990.0,
+        "y": 6449915.0,
+        "Au_ppb": 22.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 26,
+        "SampleNo": "SYN-025",
+        "Source": "Batch-2",
+        "x": 509994.0,
+        "y": 6449918.0,
+        "Au_ppb": 7.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 27,
+        "SampleNo": "SYN-026",
+        "Source": "Batch-3",
+        "x": 510005.0,
+        "y": 6449915.0,
+        "Au_ppb": 5.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 27,
+        "SampleNo": "SYN-026",
+        "Source": "Batch-3",
+        "x": 510009.0,
+        "y": 6449918.0,
+        "Au_ppb": 11.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 28,
+        "SampleNo": "SYN-027",
+        "Source": "Batch-1",
+        "x": 510020.0,
+        "y": 6449915.0,
+        "Au_ppb": 9.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 28,
+        "SampleNo": "SYN-027",
+        "Source": "Batch-1",
+        "x": 510024.0,
+        "y": 6449918.0,
+        "Au_ppb": 15.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 29,
+        "SampleNo": "SYN-028",
+        "Source": "Batch-2",
+        "x": 510035.0,
+        "y": 6449915.0,
+        "Au_ppb": 13.75
+      },
+      {
+        "medium": "2mm",
+        "row_number": 30,
+        "SampleNo": "SYN-028",
+        "Source": "Batch-3",
+        "x": 510050.0,
+        "y": 6449915.0,
+        "Au_ppb": 17.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 29,
+        "SampleNo": "SYN-028",
+        "Source": "Batch-2",
+        "x": 510039.0,
+        "y": 6449918.0,
+        "Au_ppb": 19.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 30,
+        "SampleNo": "SYN-028",
+        "Source": "Batch-3",
+        "x": 510054.0,
+        "y": 6449918.0,
+        "Au_ppb": 3.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 31,
+        "SampleNo": "SYN-030",
+        "Source": "Batch-1",
+        "x": 510065.0,
+        "y": 6449915.0,
+        "Au_ppb": 21.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 31,
+        "SampleNo": "SYN-030",
+        "Source": "Batch-1",
+        "x": 510069.0,
+        "y": 6449918.0,
+        "Au_ppb": 7.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 32,
+        "SampleNo": "SYN-031",
+        "Source": "Batch-2",
+        "x": 510065.0,
+        "y": 6449915.0,
+        "Au_ppb": 5.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 32,
+        "SampleNo": "SYN-031",
+        "Source": "Batch-2",
+        "x": 510069.0,
+        "y": 6449918.0,
+        "Au_ppb": 11.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 33,
+        "SampleNo": "SYN-032",
+        "Source": "Batch-3",
+        "x": 510095.0,
+        "y": 6449915.0,
+        "Au_ppb": 9.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 33,
+        "SampleNo": "SYN-032",
+        "Source": "Batch-3",
+        "x": 510099.0,
+        "y": 6449918.0,
+        "Au_ppb": 15.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 34,
+        "SampleNo": "SYN-033",
+        "Source": "Batch-1",
+        "x": 510110.0,
+        "y": 6449915.0,
+        "Au_ppb": 13.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 34,
+        "SampleNo": "SYN-033",
+        "Source": "Batch-1",
+        "x": 510114.0,
+        "y": 6449918.0,
+        "Au_ppb": 19.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 35,
+        "SampleNo": "SYN-034",
+        "Source": "Batch-2",
+        "x": 510125.0,
+        "y": 6449915.0,
+        "Au_ppb": 17.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 35,
+        "SampleNo": "SYN-034",
+        "Source": "Batch-2",
+        "x": 510129.0,
+        "y": 6449918.0,
+        "Au_ppb": 3.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 36,
+        "SampleNo": "SYN-035",
+        "Source": "Batch-3",
+        "x": 510140.0,
+        "y": 6449915.0,
+        "Au_ppb": 21.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 36,
+        "SampleNo": "SYN-035",
+        "Source": "Batch-3",
+        "x": 510144.0,
+        "y": 6449918.0,
+        "Au_ppb": 7.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 37,
+        "SampleNo": "SYN-036",
+        "Source": "Batch-1",
+        "x": 510155.0,
+        "y": 6449915.0,
+        "Au_ppb": 5.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 37,
+        "SampleNo": "SYN-036",
+        "Source": "Batch-1",
+        "x": 510159.0,
+        "y": 6449918.0,
+        "Au_ppb": 11.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 38,
+        "SampleNo": "SYN-037",
+        "Source": "Batch-2",
+        "x": 510170.0,
+        "y": 6449915.0,
+        "Au_ppb": 9.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 38,
+        "SampleNo": "SYN-037",
+        "Source": "Batch-2",
+        "x": 510174.0,
+        "y": 6449918.0,
+        "Au_ppb": 15.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 39,
+        "SampleNo": "SYN-038",
+        "Source": "Batch-3",
+        "x": 509900.0,
+        "y": 6449930.0,
+        "Au_ppb": 13.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 39,
+        "SampleNo": "SYN-038",
+        "Source": "Batch-3",
+        "x": 509904.0,
+        "y": 6449933.0,
+        "Au_ppb": 19.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 40,
+        "SampleNo": "SYN-039",
+        "Source": "Batch-1",
+        "x": 509915.0,
+        "y": 6449930.0,
+        "Au_ppb": 17.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 40,
+        "SampleNo": "SYN-039",
+        "Source": "Batch-1",
+        "x": 509919.0,
+        "y": 6449933.0,
+        "Au_ppb": 23.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 41,
+        "SampleNo": "SYN-040",
+        "Source": "Batch-2",
+        "x": 509930.0,
+        "y": 6449930.0,
+        "Au_ppb": 21.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 41,
+        "SampleNo": "SYN-040",
+        "Source": "Batch-2",
+        "x": 509934.0,
+        "y": 6449933.0,
+        "Au_ppb": 6.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 42,
+        "SampleNo": "SYN-041",
+        "Source": "Batch-3",
+        "x": 509945.0,
+        "y": 6449930.0,
+        "Au_ppb": 5.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 42,
+        "SampleNo": "SYN-041",
+        "Source": "Batch-3",
+        "x": 509949.0,
+        "y": 6449933.0,
+        "Au_ppb": 10.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 43,
+        "SampleNo": "SYN-042",
+        "Source": "Batch-1",
+        "x": 509960.0,
+        "y": 6449930.0,
+        "Au_ppb": 9.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 43,
+        "SampleNo": "SYN-042",
+        "Source": "Batch-1",
+        "x": 509964.0,
+        "y": 6449933.0,
+        "Au_ppb": 14.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 44,
+        "SampleNo": "SYN-043",
+        "Source": "Batch-2",
+        "x": 509975.0,
+        "y": 6449930.0,
+        "Au_ppb": 13.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 44,
+        "SampleNo": "SYN-043",
+        "Source": "Batch-2",
+        "x": 509979.0,
+        "y": 6449933.0,
+        "Au_ppb": 18.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 45,
+        "SampleNo": "SYN-044",
+        "Source": "Batch-3",
+        "x": 509990.0,
+        "y": 6449930.0,
+        "Au_ppb": 17.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 45,
+        "SampleNo": "SYN-044",
+        "Source": "Batch-3",
+        "x": 509994.0,
+        "y": 6449933.0,
+        "Au_ppb": 22.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 46,
+        "SampleNo": "SYN-045",
+        "Source": "Batch-1",
+        "x": 510005.0,
+        "y": 6449930.0,
+        "Au_ppb": 21.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 46,
+        "SampleNo": "SYN-045",
+        "Source": "Batch-1",
+        "x": 510009.0,
+        "y": 6449933.0,
+        "Au_ppb": 6.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 47,
+        "SampleNo": "SYN-046",
+        "Source": "Batch-2",
+        "x": 510020.0,
+        "y": 6449930.0,
+        "Au_ppb": 4.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 47,
+        "SampleNo": "SYN-046",
+        "Source": "Batch-2",
+        "x": 510024.0,
+        "y": 6449933.0,
+        "Au_ppb": 10.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 48,
+        "SampleNo": "SYN-047",
+        "Source": "Batch-3",
+        "x": 510035.0,
+        "y": 6449930.0,
+        "Au_ppb": 8.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 48,
+        "SampleNo": "SYN-047",
+        "Source": "Batch-3",
+        "x": 510039.0,
+        "y": 6449933.0,
+        "Au_ppb": 14.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 49,
+        "SampleNo": "SYN-048",
+        "Source": "Batch-1",
+        "x": 510050.0,
+        "y": 6449930.0,
+        "Au_ppb": 12.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 49,
+        "SampleNo": "SYN-048",
+        "Source": "Batch-1",
+        "x": 510054.0,
+        "y": 6449933.0,
+        "Au_ppb": 18.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 50,
+        "SampleNo": "SYN-049",
+        "Source": "Batch-2",
+        "x": 510065.0,
+        "y": 6449930.0,
+        "Au_ppb": 16.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 50,
+        "SampleNo": "SYN-049",
+        "Source": "Batch-2",
+        "x": 510069.0,
+        "y": 6449933.0,
+        "Au_ppb": 22.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 51,
+        "SampleNo": "SYN-050",
+        "Source": "Batch-3",
+        "x": 510080.0,
+        "y": 6449930.0,
+        "Au_ppb": 20.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 51,
+        "SampleNo": "SYN-050",
+        "Source": "Batch-3",
+        "x": 510084.0,
+        "y": 6449933.0,
+        "Au_ppb": 6.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 52,
+        "SampleNo": "SYN-051",
+        "Source": "Batch-1",
+        "x": 510095.0,
+        "y": 6449930.0,
+        "Au_ppb": 4.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 52,
+        "SampleNo": "SYN-051",
+        "Source": "Batch-1",
+        "x": 510099.0,
+        "y": 6449933.0,
+        "Au_ppb": 10.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 53,
+        "SampleNo": "SYN-052",
+        "Source": "Batch-2",
+        "x": 510110.0,
+        "y": 6449930.0,
+        "Au_ppb": 8.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 53,
+        "SampleNo": "SYN-052",
+        "Source": "Batch-2",
+        "x": 510114.0,
+        "y": 6449933.0,
+        "Au_ppb": 14.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 54,
+        "SampleNo": "SYN-053",
+        "Source": "Batch-3",
+        "x": 510125.0,
+        "y": 6449930.0,
+        "Au_ppb": 52.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 54,
+        "SampleNo": "SYN-053",
+        "Source": "Batch-3",
+        "x": 510129.0,
+        "y": 6449933.0,
+        "Au_ppb": 58.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 55,
+        "SampleNo": "SYN-054",
+        "Source": "Batch-1",
+        "x": 510140.0,
+        "y": 6449930.0,
+        "Au_ppb": 16.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 55,
+        "SampleNo": "SYN-054",
+        "Source": "Batch-1",
+        "x": 510144.0,
+        "y": 6449933.0,
+        "Au_ppb": 22.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 56,
+        "SampleNo": "SYN-055",
+        "Source": "Batch-2",
+        "x": 510155.0,
+        "y": 6449930.0,
+        "Au_ppb": 20.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 56,
+        "SampleNo": "SYN-055",
+        "Source": "Batch-2",
+        "x": 510159.0,
+        "y": 6449933.0,
+        "Au_ppb": 6.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 57,
+        "SampleNo": "SYN-056",
+        "Source": "Batch-3",
+        "x": 510170.0,
+        "y": 6449930.0,
+        "Au_ppb": 4.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 57,
+        "SampleNo": "SYN-056",
+        "Source": "Batch-3",
+        "x": 510174.0,
+        "y": 6449933.0,
+        "Au_ppb": 10.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 58,
+        "SampleNo": "SYN-057",
+        "Source": "Batch-1",
+        "x": 509900.0,
+        "y": 6449945.0,
+        "Au_ppb": 8.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 58,
+        "SampleNo": "SYN-057",
+        "Source": "Batch-1",
+        "x": 509904.0,
+        "y": 6449948.0,
+        "Au_ppb": 14.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 59,
+        "SampleNo": "SYN-058",
+        "Source": "Batch-2",
+        "x": 509915.0,
+        "y": 6449945.0,
+        "Au_ppb": 12.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 59,
+        "SampleNo": "SYN-058",
+        "Source": "Batch-2",
+        "x": 509919.0,
+        "y": 6449948.0,
+        "Au_ppb": 18.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 60,
+        "SampleNo": "SYN-059",
+        "Source": "Batch-3",
+        "x": 509930.0,
+        "y": 6449945.0,
+        "Au_ppb": 16.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 60,
+        "SampleNo": "SYN-059",
+        "Source": "Batch-3",
+        "x": 509934.0,
+        "y": 6449948.0,
+        "Au_ppb": 22.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 61,
+        "SampleNo": "SYN-060",
+        "Source": "Batch-1",
+        "x": 509945.0,
+        "y": 6449945.0,
+        "Au_ppb": 20.25
+      },
+      {
+        "medium": "2mm",
+        "row_number": 62,
+        "SampleNo": "SYN-060",
+        "Source": "Batch-2",
+        "x": 509945.0,
+        "y": 6449945.0,
+        "Au_ppb": 4.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 61,
+        "SampleNo": "SYN-060",
+        "Source": "Batch-1",
+        "x": 509949.0,
+        "y": 6449948.0,
+        "Au_ppb": 5.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 62,
+        "SampleNo": "SYN-060",
+        "Source": "Batch-2",
+        "x": 509949.0,
+        "y": 6449948.0,
+        "Au_ppb": 9.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 63,
+        "SampleNo": "SYN-062",
+        "Source": "Batch-3",
+        "x": 509975.0,
+        "y": 6449945.0,
+        "Au_ppb": 8.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 63,
+        "SampleNo": "SYN-062",
+        "Source": "Batch-3",
+        "x": 509979.0,
+        "y": 6449948.0,
+        "Au_ppb": 13.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 64,
+        "SampleNo": "SYN-063",
+        "Source": "Batch-1",
+        "x": 509990.0,
+        "y": 6449945.0,
+        "Au_ppb": 12.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 64,
+        "SampleNo": "SYN-063",
+        "Source": "Batch-1",
+        "x": 509994.0,
+        "y": 6449948.0,
+        "Au_ppb": 17.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 65,
+        "SampleNo": "SYN-064",
+        "Source": "Batch-2",
+        "x": 510005.0,
+        "y": 6449945.0,
+        "Au_ppb": 16.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 65,
+        "SampleNo": "SYN-064",
+        "Source": "Batch-2",
+        "x": 510009.0,
+        "y": 6449948.0,
+        "Au_ppb": 21.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 66,
+        "SampleNo": "SYN-065",
+        "Source": "Batch-3",
+        "x": 510020.0,
+        "y": 6449945.0,
+        "Au_ppb": 20.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 66,
+        "SampleNo": "SYN-065",
+        "Source": "Batch-3",
+        "x": 510024.0,
+        "y": 6449948.0,
+        "Au_ppb": 5.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 67,
+        "SampleNo": "SYN-066",
+        "Source": "Batch-1",
+        "x": 510035.0,
+        "y": 6449945.0,
+        "Au_ppb": 3.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 67,
+        "SampleNo": "SYN-066",
+        "Source": "Batch-1",
+        "x": 510039.0,
+        "y": 6449948.0,
+        "Au_ppb": 9.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 68,
+        "SampleNo": "SYN-067",
+        "Source": "Batch-2",
+        "x": 510050.0,
+        "y": 6449945.0,
+        "Au_ppb": 7.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 68,
+        "SampleNo": "SYN-067",
+        "Source": "Batch-2",
+        "x": 510054.0,
+        "y": 6449948.0,
+        "Au_ppb": 13.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 69,
+        "SampleNo": "SYN-068",
+        "Source": "Batch-3",
+        "x": 510065.0,
+        "y": 6449945.0,
+        "Au_ppb": 11.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 69,
+        "SampleNo": "SYN-068",
+        "Source": "Batch-3",
+        "x": 510069.0,
+        "y": 6449948.0,
+        "Au_ppb": 17.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 70,
+        "SampleNo": "SYN-069",
+        "Source": "Batch-1",
+        "x": 510080.0,
+        "y": 6449945.0,
+        "Au_ppb": 15.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 70,
+        "SampleNo": "SYN-069",
+        "Source": "Batch-1",
+        "x": 510084.0,
+        "y": 6449948.0,
+        "Au_ppb": 21.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 71,
+        "SampleNo": "SYN-070",
+        "Source": "Batch-2",
+        "x": 510095.0,
+        "y": 6449945.0,
+        "Au_ppb": 19.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 71,
+        "SampleNo": "SYN-070",
+        "Source": "Batch-2",
+        "x": 510099.0,
+        "y": 6449948.0,
+        "Au_ppb": 5.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 72,
+        "SampleNo": "SYN-071",
+        "Source": "Batch-3",
+        "x": 510110.0,
+        "y": 6449945.0,
+        "Au_ppb": 3.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 72,
+        "SampleNo": "SYN-071",
+        "Source": "Batch-3",
+        "x": 510114.0,
+        "y": 6449948.0,
+        "Au_ppb": 9.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 73,
+        "SampleNo": "SYN-072",
+        "Source": "Batch-1",
+        "x": 510125.0,
+        "y": 6449945.0,
+        "Au_ppb": 7.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 73,
+        "SampleNo": "SYN-072",
+        "Source": "Batch-1",
+        "x": 510129.0,
+        "y": 6449948.0,
+        "Au_ppb": 13.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 74,
+        "SampleNo": "SYN-073",
+        "Source": "Batch-2",
+        "x": 510140.0,
+        "y": 6449945.0,
+        "Au_ppb": 11.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 74,
+        "SampleNo": "SYN-073",
+        "Source": "Batch-2",
+        "x": 510144.0,
+        "y": 6449948.0,
+        "Au_ppb": 17.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 75,
+        "SampleNo": "SYN-074",
+        "Source": "Batch-3",
+        "x": 510155.0,
+        "y": 6449945.0,
+        "Au_ppb": 15.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 75,
+        "SampleNo": "SYN-074",
+        "Source": "Batch-3",
+        "x": 510159.0,
+        "y": 6449948.0,
+        "Au_ppb": 21.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 76,
+        "SampleNo": "SYN-075",
+        "Source": "Batch-1",
+        "x": 510170.0,
+        "y": 6449945.0,
+        "Au_ppb": 19.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 76,
+        "SampleNo": "SYN-075",
+        "Source": "Batch-1",
+        "x": 510174.0,
+        "y": 6449948.0,
+        "Au_ppb": 5.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 77,
+        "SampleNo": "SYN-076",
+        "Source": "Batch-2",
+        "x": 509900.0,
+        "y": 6449960.0,
+        "Au_ppb": 3.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 77,
+        "SampleNo": "SYN-076",
+        "Source": "Batch-2",
+        "x": 509904.0,
+        "y": 6449963.0,
+        "Au_ppb": 9.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 78,
+        "SampleNo": "SYN-077",
+        "Source": "Batch-3",
+        "x": 509915.0,
+        "y": 6449960.0,
+        "Au_ppb": 7.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 78,
+        "SampleNo": "SYN-077",
+        "Source": "Batch-3",
+        "x": 509919.0,
+        "y": 6449963.0,
+        "Au_ppb": 13.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 79,
+        "SampleNo": "SYN-078",
+        "Source": "Batch-1",
+        "x": 509930.0,
+        "y": 6449960.0,
+        "Au_ppb": 11.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 79,
+        "SampleNo": "SYN-078",
+        "Source": "Batch-1",
+        "x": 509934.0,
+        "y": 6449963.0,
+        "Au_ppb": 17.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 80,
+        "SampleNo": "SYN-079",
+        "Source": "Batch-2",
+        "x": 509945.0,
+        "y": 6449960.0,
+        "Au_ppb": 15.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 80,
+        "SampleNo": "SYN-079",
+        "Source": "Batch-2",
+        "x": 509949.0,
+        "y": 6449963.0,
+        "Au_ppb": 21.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 81,
+        "SampleNo": "SYN-080",
+        "Source": "Batch-3",
+        "x": 509960.0,
+        "y": 6449960.0,
+        "Au_ppb": 19.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 81,
+        "SampleNo": "SYN-080",
+        "Source": "Batch-3",
+        "x": 509964.0,
+        "y": 6449963.0,
+        "Au_ppb": 4.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 82,
+        "SampleNo": "SYN-081",
+        "Source": "Batch-1",
+        "x": 509975.0,
+        "y": 6449960.0,
+        "Au_ppb": 3.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 82,
+        "SampleNo": "SYN-081",
+        "Source": "Batch-1",
+        "x": 509979.0,
+        "y": 6449963.0,
+        "Au_ppb": 8.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 83,
+        "SampleNo": "SYN-082",
+        "Source": "Batch-2",
+        "x": 509990.0,
+        "y": 6449960.0,
+        "Au_ppb": 7.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 83,
+        "SampleNo": "SYN-082",
+        "Source": "Batch-2",
+        "x": 509994.0,
+        "y": 6449963.0,
+        "Au_ppb": 12.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 84,
+        "SampleNo": "SYN-083",
+        "Source": "Batch-3",
+        "x": 510005.0,
+        "y": 6449960.0,
+        "Au_ppb": 11.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 84,
+        "SampleNo": "SYN-083",
+        "Source": "Batch-3",
+        "x": 510009.0,
+        "y": 6449963.0,
+        "Au_ppb": 16.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 85,
+        "SampleNo": "SYN-084",
+        "Source": "Batch-1",
+        "x": 510020.0,
+        "y": 6449960.0,
+        "Au_ppb": 15.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 85,
+        "SampleNo": "SYN-084",
+        "Source": "Batch-1",
+        "x": 510024.0,
+        "y": 6449963.0,
+        "Au_ppb": 20.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 86,
+        "SampleNo": "SYN-085",
+        "Source": "Batch-2",
+        "x": 510035.0,
+        "y": 6449960.0,
+        "Au_ppb": 19.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 86,
+        "SampleNo": "SYN-085",
+        "Source": "Batch-2",
+        "x": 510039.0,
+        "y": 6449963.0,
+        "Au_ppb": 4.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 87,
+        "SampleNo": "SYN-086",
+        "Source": "Batch-3",
+        "x": 510050.0,
+        "y": 6449960.0,
+        "Au_ppb": 23.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 87,
+        "SampleNo": "SYN-086",
+        "Source": "Batch-3",
+        "x": 510054.0,
+        "y": 6449963.0,
+        "Au_ppb": 8.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 88,
+        "SampleNo": "SYN-087",
+        "Source": "Batch-1",
+        "x": 510065.0,
+        "y": 6449960.0,
+        "Au_ppb": 6.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 88,
+        "SampleNo": "SYN-087",
+        "Source": "Batch-1",
+        "x": 510069.0,
+        "y": 6449963.0,
+        "Au_ppb": 12.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 89,
+        "SampleNo": "SYN-088",
+        "Source": "Batch-2",
+        "x": 510080.0,
+        "y": 6449960.0,
+        "Au_ppb": 10.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 89,
+        "SampleNo": "SYN-088",
+        "Source": "Batch-2",
+        "x": 510084.0,
+        "y": 6449963.0,
+        "Au_ppb": 16.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 90,
+        "SampleNo": "SYN-089",
+        "Source": "Batch-3",
+        "x": 510095.0,
+        "y": 6449960.0,
+        "Au_ppb": 14.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 90,
+        "SampleNo": "SYN-089",
+        "Source": "Batch-3",
+        "x": 510099.0,
+        "y": 6449963.0,
+        "Au_ppb": 20.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 91,
+        "SampleNo": "SYN-090",
+        "Source": "Batch-1",
+        "x": 510110.0,
+        "y": 6449960.0,
+        "Au_ppb": 18.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 91,
+        "SampleNo": "SYN-090",
+        "Source": "Batch-1",
+        "x": 510114.0,
+        "y": 6449963.0,
+        "Au_ppb": 4.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 92,
+        "SampleNo": "SYN-091",
+        "Source": "Batch-2",
+        "x": 510125.0,
+        "y": 6449960.0,
+        "Au_ppb": 22.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 92,
+        "SampleNo": "SYN-091",
+        "Source": "Batch-2",
+        "x": 510129.0,
+        "y": 6449963.0,
+        "Au_ppb": 8.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 93,
+        "SampleNo": "SYN-092",
+        "Source": "Batch-3",
+        "x": 510140.0,
+        "y": 6449960.0,
+        "Au_ppb": 6.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 93,
+        "SampleNo": "SYN-092",
+        "Source": "Batch-3",
+        "x": 510144.0,
+        "y": 6449963.0,
+        "Au_ppb": 12.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 94,
+        "SampleNo": "SYN-093",
+        "Source": "Batch-1",
+        "x": 510155.0,
+        "y": 6449960.0,
+        "Au_ppb": 10.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 94,
+        "SampleNo": "SYN-093",
+        "Source": "Batch-1",
+        "x": 510159.0,
+        "y": 6449963.0,
+        "Au_ppb": 16.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 95,
+        "SampleNo": "SYN-094",
+        "Source": "Batch-2",
+        "x": 510170.0,
+        "y": 6449960.0,
+        "Au_ppb": 14.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 95,
+        "SampleNo": "SYN-094",
+        "Source": "Batch-2",
+        "x": 510174.0,
+        "y": 6449963.0,
+        "Au_ppb": 20.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 96,
+        "SampleNo": "SYN-095",
+        "Source": "Batch-3",
+        "x": 509900.0,
+        "y": 6449975.0,
+        "Au_ppb": 18.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 96,
+        "SampleNo": "SYN-095",
+        "Source": "Batch-3",
+        "x": 509904.0,
+        "y": 6449978.0,
+        "Au_ppb": 4.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 97,
+        "SampleNo": "SYN-096",
+        "Source": "Batch-1",
+        "x": 509915.0,
+        "y": 6449975.0,
+        "Au_ppb": 22.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 97,
+        "SampleNo": "SYN-096",
+        "Source": "Batch-1",
+        "x": 509919.0,
+        "y": 6449978.0,
+        "Au_ppb": 8.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 98,
+        "SampleNo": "SYN-097",
+        "Source": "Batch-2",
+        "x": 509930.0,
+        "y": 6449975.0,
+        "Au_ppb": 6.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 98,
+        "SampleNo": "SYN-097",
+        "Source": "Batch-2",
+        "x": 509934.0,
+        "y": 6449978.0,
+        "Au_ppb": 12.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 99,
+        "SampleNo": "SYN-098",
+        "Source": "Batch-3",
+        "x": 509945.0,
+        "y": 6449975.0,
+        "Au_ppb": 10.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 99,
+        "SampleNo": "SYN-098",
+        "Source": "Batch-3",
+        "x": 509949.0,
+        "y": 6449978.0,
+        "Au_ppb": 16.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 100,
+        "SampleNo": "SYN-099",
+        "Source": "Batch-1",
+        "x": 509960.0,
+        "y": 6449975.0,
+        "Au_ppb": 14.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 100,
+        "SampleNo": "SYN-099",
+        "Source": "Batch-1",
+        "x": 509964.0,
+        "y": 6449978.0,
+        "Au_ppb": 20.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 101,
+        "SampleNo": "SYN-100",
+        "Source": "Batch-2",
+        "x": 509975.0,
+        "y": 6449975.0,
+        "Au_ppb": 18.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 101,
+        "SampleNo": "SYN-100",
+        "Source": "Batch-2",
+        "x": 509979.0,
+        "y": 6449978.0,
+        "Au_ppb": 3.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 102,
+        "SampleNo": "SYN-101",
+        "Source": "Batch-3",
+        "x": 509990.0,
+        "y": 6449975.0,
+        "Au_ppb": 22.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 102,
+        "SampleNo": "SYN-101",
+        "Source": "Batch-3",
+        "x": 509994.0,
+        "y": 6449978.0,
+        "Au_ppb": 7.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 103,
+        "SampleNo": "SYN-102",
+        "Source": "Batch-1",
+        "x": 510005.0,
+        "y": 6449975.0,
+        "Au_ppb": 6.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 103,
+        "SampleNo": "SYN-102",
+        "Source": "Batch-1",
+        "x": 510009.0,
+        "y": 6449978.0,
+        "Au_ppb": 11.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 104,
+        "SampleNo": "SYN-103",
+        "Source": "Batch-2",
+        "x": 510020.0,
+        "y": 6449975.0,
+        "Au_ppb": 10.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 104,
+        "SampleNo": "SYN-103",
+        "Source": "Batch-2",
+        "x": 510024.0,
+        "y": 6449978.0,
+        "Au_ppb": 15.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 105,
+        "SampleNo": "SYN-104",
+        "Source": "Batch-3",
+        "x": 510035.0,
+        "y": 6449975.0,
+        "Au_ppb": 14.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 105,
+        "SampleNo": "SYN-104",
+        "Source": "Batch-3",
+        "x": 510039.0,
+        "y": 6449978.0,
+        "Au_ppb": 19.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 106,
+        "SampleNo": "SYN-105",
+        "Source": "Batch-1",
+        "x": 510050.0,
+        "y": 6449975.0,
+        "Au_ppb": 18.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 106,
+        "SampleNo": "SYN-105",
+        "Source": "Batch-1",
+        "x": 510054.0,
+        "y": 6449978.0,
+        "Au_ppb": 3.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 107,
+        "SampleNo": "SYN-106",
+        "Source": "Batch-2",
+        "x": 510065.0,
+        "y": 6449975.0,
+        "Au_ppb": 62.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 107,
+        "SampleNo": "SYN-106",
+        "Source": "Batch-2",
+        "x": 510069.0,
+        "y": 6449978.0,
+        "Au_ppb": 47.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 108,
+        "SampleNo": "SYN-107",
+        "Source": "Batch-3",
+        "x": 510080.0,
+        "y": 6449975.0,
+        "Au_ppb": 5.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 108,
+        "SampleNo": "SYN-107",
+        "Source": "Batch-3",
+        "x": 510084.0,
+        "y": 6449978.0,
+        "Au_ppb": 11.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 109,
+        "SampleNo": "SYN-108",
+        "Source": "Batch-1",
+        "x": 510095.0,
+        "y": 6449975.0,
+        "Au_ppb": 9.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 109,
+        "SampleNo": "SYN-108",
+        "Source": "Batch-1",
+        "x": 510099.0,
+        "y": 6449978.0,
+        "Au_ppb": 15.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 110,
+        "SampleNo": "SYN-109",
+        "Source": "Batch-2",
+        "x": 510110.0,
+        "y": 6449975.0,
+        "Au_ppb": 13.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 110,
+        "SampleNo": "SYN-109",
+        "Source": "Batch-2",
+        "x": 510114.0,
+        "y": 6449978.0,
+        "Au_ppb": 19.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 111,
+        "SampleNo": "SYN-110",
+        "Source": "Batch-3",
+        "x": 510125.0,
+        "y": 6449975.0,
+        "Au_ppb": 17.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 111,
+        "SampleNo": "SYN-110",
+        "Source": "Batch-3",
+        "x": 510129.0,
+        "y": 6449978.0,
+        "Au_ppb": 3.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 112,
+        "SampleNo": "SYN-111",
+        "Source": "Batch-1",
+        "x": 510140.0,
+        "y": 6449975.0,
+        "Au_ppb": 21.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 112,
+        "SampleNo": "SYN-111",
+        "Source": "Batch-1",
+        "x": 510144.0,
+        "y": 6449978.0,
+        "Au_ppb": 7.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 113,
+        "SampleNo": "SYN-112",
+        "Source": "Batch-2",
+        "x": 510155.0,
+        "y": 6449975.0,
+        "Au_ppb": 5.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 113,
+        "SampleNo": "SYN-112",
+        "Source": "Batch-2",
+        "x": 510159.0,
+        "y": 6449978.0,
+        "Au_ppb": 11.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 114,
+        "SampleNo": "SYN-113",
+        "Source": "Batch-3",
+        "x": 510170.0,
+        "y": 6449975.0,
+        "Au_ppb": 9.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 114,
+        "SampleNo": "SYN-113",
+        "Source": "Batch-3",
+        "x": 510174.0,
+        "y": 6449978.0,
+        "Au_ppb": 15.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 115,
+        "SampleNo": "SYN-114",
+        "Source": "Batch-1",
+        "x": 509900.0,
+        "y": 6449990.0,
+        "Au_ppb": 13.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 115,
+        "SampleNo": "SYN-114",
+        "Source": "Batch-1",
+        "x": 509904.0,
+        "y": 6449993.0,
+        "Au_ppb": 19.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 116,
+        "SampleNo": "SYN-115",
+        "Source": "Batch-2",
+        "x": 509915.0,
+        "y": 6449990.0,
+        "Au_ppb": 17.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 116,
+        "SampleNo": "SYN-115",
+        "Source": "Batch-2",
+        "x": 509919.0,
+        "y": 6449993.0,
+        "Au_ppb": 3.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 117,
+        "SampleNo": "SYN-116",
+        "Source": "Batch-3",
+        "x": 509930.0,
+        "y": 6449990.0,
+        "Au_ppb": 21.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 117,
+        "SampleNo": "SYN-116",
+        "Source": "Batch-3",
+        "x": 509934.0,
+        "y": 6449993.0,
+        "Au_ppb": 7.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 118,
+        "SampleNo": "SYN-117",
+        "Source": "Batch-1",
+        "x": 509945.0,
+        "y": 6449990.0,
+        "Au_ppb": 5.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 118,
+        "SampleNo": "SYN-117",
+        "Source": "Batch-1",
+        "x": 509949.0,
+        "y": 6449993.0,
+        "Au_ppb": 11.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 119,
+        "SampleNo": "SYN-118",
+        "Source": "Batch-2",
+        "x": 509960.0,
+        "y": 6449990.0,
+        "Au_ppb": 9.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 119,
+        "SampleNo": "SYN-118",
+        "Source": "Batch-2",
+        "x": 509964.0,
+        "y": 6449993.0,
+        "Au_ppb": 15.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 120,
+        "SampleNo": "SYN-119",
+        "Source": "Batch-3",
+        "x": 509975.0,
+        "y": 6449990.0,
+        "Au_ppb": 13.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 120,
+        "SampleNo": "SYN-119",
+        "Source": "Batch-3",
+        "x": 509979.0,
+        "y": 6449993.0,
+        "Au_ppb": 19.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 121,
+        "SampleNo": "SYN-120",
+        "Source": "Batch-1",
+        "x": 509990.0,
+        "y": 6449990.0,
+        "Au_ppb": 17.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 121,
+        "SampleNo": "SYN-120",
+        "Source": "Batch-1",
+        "x": 509994.0,
+        "y": 6449993.0,
+        "Au_ppb": 23.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 122,
+        "SampleNo": "SYN-121",
+        "Source": "Batch-2",
+        "x": 510005.0,
+        "y": 6449990.0,
+        "Au_ppb": 21.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 122,
+        "SampleNo": "SYN-121",
+        "Source": "Batch-2",
+        "x": 510009.0,
+        "y": 6449993.0,
+        "Au_ppb": 6.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 123,
+        "SampleNo": "SYN-122",
+        "Source": "Batch-3",
+        "x": 510020.0,
+        "y": 6449990.0,
+        "Au_ppb": 5.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 123,
+        "SampleNo": "SYN-122",
+        "Source": "Batch-3",
+        "x": 510024.0,
+        "y": 6449993.0,
+        "Au_ppb": 10.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 124,
+        "SampleNo": "SYN-123",
+        "Source": "Batch-1",
+        "x": 510035.0,
+        "y": 6449990.0,
+        "Au_ppb": 9.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 124,
+        "SampleNo": "SYN-123",
+        "Source": "Batch-1",
+        "x": 510039.0,
+        "y": 6449993.0,
+        "Au_ppb": 14.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 125,
+        "SampleNo": "SYN-124",
+        "Source": "Batch-2",
+        "x": 510050.0,
+        "y": 6449990.0,
+        "Au_ppb": 13.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 125,
+        "SampleNo": "SYN-124",
+        "Source": "Batch-2",
+        "x": 510054.0,
+        "y": 6449993.0,
+        "Au_ppb": 18.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 126,
+        "SampleNo": "SYN-125",
+        "Source": "Batch-3",
+        "x": 510065.0,
+        "y": 6449990.0,
+        "Au_ppb": 17.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 126,
+        "SampleNo": "SYN-125",
+        "Source": "Batch-3",
+        "x": 510069.0,
+        "y": 6449993.0,
+        "Au_ppb": 22.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 127,
+        "SampleNo": "SYN-126",
+        "Source": "Batch-1",
+        "x": 510080.0,
+        "y": 6449990.0,
+        "Au_ppb": 21.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 127,
+        "SampleNo": "SYN-126",
+        "Source": "Batch-1",
+        "x": 510084.0,
+        "y": 6449993.0,
+        "Au_ppb": 6.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 128,
+        "SampleNo": "SYN-127",
+        "Source": "Batch-2",
+        "x": 510095.0,
+        "y": 6449990.0,
+        "Au_ppb": 4.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 128,
+        "SampleNo": "SYN-127",
+        "Source": "Batch-2",
+        "x": 510099.0,
+        "y": 6449993.0,
+        "Au_ppb": 10.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 129,
+        "SampleNo": "SYN-128",
+        "Source": "Batch-3",
+        "x": 510110.0,
+        "y": 6449990.0,
+        "Au_ppb": 8.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 129,
+        "SampleNo": "SYN-128",
+        "Source": "Batch-3",
+        "x": 510114.0,
+        "y": 6449993.0,
+        "Au_ppb": 14.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 130,
+        "SampleNo": "SYN-129",
+        "Source": "Batch-1",
+        "x": 510125.0,
+        "y": 6449990.0,
+        "Au_ppb": 12.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 130,
+        "SampleNo": "SYN-129",
+        "Source": "Batch-1",
+        "x": 510129.0,
+        "y": 6449993.0,
+        "Au_ppb": 18.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 131,
+        "SampleNo": "SYN-130",
+        "Source": "Batch-2",
+        "x": 510140.0,
+        "y": 6449990.0,
+        "Au_ppb": 16.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 131,
+        "SampleNo": "SYN-130",
+        "Source": "Batch-2",
+        "x": 510144.0,
+        "y": 6449993.0,
+        "Au_ppb": 22.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 132,
+        "SampleNo": "SYN-131",
+        "Source": "Batch-3",
+        "x": 510155.0,
+        "y": 6449990.0,
+        "Au_ppb": 20.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 132,
+        "SampleNo": "SYN-131",
+        "Source": "Batch-3",
+        "x": 510159.0,
+        "y": 6449993.0,
+        "Au_ppb": 6.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 133,
+        "SampleNo": "SYN-132",
+        "Source": "Batch-1",
+        "x": 510170.0,
+        "y": 6449990.0,
+        "Au_ppb": 4.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 133,
+        "SampleNo": "SYN-132",
+        "Source": "Batch-1",
+        "x": 510174.0,
+        "y": 6449993.0,
+        "Au_ppb": 10.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 134,
+        "SampleNo": "SYN-133",
+        "Source": "Batch-2",
+        "x": 509900.0,
+        "y": 6450005.0,
+        "Au_ppb": 8.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 134,
+        "SampleNo": "SYN-133",
+        "Source": "Batch-2",
+        "x": 509904.0,
+        "y": 6450008.0,
+        "Au_ppb": 14.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 135,
+        "SampleNo": "SYN-134",
+        "Source": "Batch-3",
+        "x": 509915.0,
+        "y": 6450005.0,
+        "Au_ppb": 12.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 135,
+        "SampleNo": "SYN-134",
+        "Source": "Batch-3",
+        "x": 509919.0,
+        "y": 6450008.0,
+        "Au_ppb": 18.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 136,
+        "SampleNo": "SYN-135",
+        "Source": "Batch-1",
+        "x": 509930.0,
+        "y": 6450005.0,
+        "Au_ppb": 16.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 136,
+        "SampleNo": "SYN-135",
+        "Source": "Batch-1",
+        "x": 509934.0,
+        "y": 6450008.0,
+        "Au_ppb": 22.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 137,
+        "SampleNo": "SYN-136",
+        "Source": "Batch-2",
+        "x": 509945.0,
+        "y": 6450005.0,
+        "Au_ppb": 20.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 137,
+        "SampleNo": "SYN-136",
+        "Source": "Batch-2",
+        "x": 509949.0,
+        "y": 6450008.0,
+        "Au_ppb": 6.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 138,
+        "SampleNo": "SYN-137",
+        "Source": "Batch-3",
+        "x": 509960.0,
+        "y": 6450005.0,
+        "Au_ppb": 4.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 138,
+        "SampleNo": "SYN-137",
+        "Source": "Batch-3",
+        "x": 509964.0,
+        "y": 6450008.0,
+        "Au_ppb": 10.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 139,
+        "SampleNo": "SYN-138",
+        "Source": "Batch-1",
+        "x": 509975.0,
+        "y": 6450005.0,
+        "Au_ppb": 8.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 139,
+        "SampleNo": "SYN-138",
+        "Source": "Batch-1",
+        "x": 509979.0,
+        "y": 6450008.0,
+        "Au_ppb": 14.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 140,
+        "SampleNo": "SYN-139",
+        "Source": "Batch-2",
+        "x": 509990.0,
+        "y": 6450005.0,
+        "Au_ppb": 12.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 140,
+        "SampleNo": "SYN-139",
+        "Source": "Batch-2",
+        "x": 509994.0,
+        "y": 6450008.0,
+        "Au_ppb": 18.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 141,
+        "SampleNo": "SYN-140",
+        "Source": "Batch-3",
+        "x": 510005.0,
+        "y": 6450005.0,
+        "Au_ppb": 16.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 141,
+        "SampleNo": "SYN-140",
+        "Source": "Batch-3",
+        "x": 510009.0,
+        "y": 6450008.0,
+        "Au_ppb": 22.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 142,
+        "SampleNo": "SYN-141",
+        "Source": "Batch-1",
+        "x": 510020.0,
+        "y": 6450005.0,
+        "Au_ppb": 20.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 142,
+        "SampleNo": "SYN-141",
+        "Source": "Batch-1",
+        "x": 510024.0,
+        "y": 6450008.0,
+        "Au_ppb": 5.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 143,
+        "SampleNo": "SYN-142",
+        "Source": "Batch-2",
+        "x": 510035.0,
+        "y": 6450005.0,
+        "Au_ppb": 4.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 143,
+        "SampleNo": "SYN-142",
+        "Source": "Batch-2",
+        "x": 510039.0,
+        "y": 6450008.0,
+        "Au_ppb": 9.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 144,
+        "SampleNo": "SYN-143",
+        "Source": "Batch-3",
+        "x": 510050.0,
+        "y": 6450005.0,
+        "Au_ppb": 8.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 144,
+        "SampleNo": "SYN-143",
+        "Source": "Batch-3",
+        "x": 510054.0,
+        "y": 6450008.0,
+        "Au_ppb": 13.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 145,
+        "SampleNo": "SYN-144",
+        "Source": "Batch-1",
+        "x": 510065.0,
+        "y": 6450005.0,
+        "Au_ppb": 12.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 145,
+        "SampleNo": "SYN-144",
+        "Source": "Batch-1",
+        "x": 510069.0,
+        "y": 6450008.0,
+        "Au_ppb": 17.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 146,
+        "SampleNo": "SYN-145",
+        "Source": "Batch-2",
+        "x": 510080.0,
+        "y": 6450005.0,
+        "Au_ppb": 16.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 146,
+        "SampleNo": "SYN-145",
+        "Source": "Batch-2",
+        "x": 510084.0,
+        "y": 6450008.0,
+        "Au_ppb": 21.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 147,
+        "SampleNo": "SYN-146",
+        "Source": "Batch-3",
+        "x": 510095.0,
+        "y": 6450005.0,
+        "Au_ppb": 20.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 147,
+        "SampleNo": "SYN-146",
+        "Source": "Batch-3",
+        "x": 510099.0,
+        "y": 6450008.0,
+        "Au_ppb": 5.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 148,
+        "SampleNo": "SYN-147",
+        "Source": "Batch-1",
+        "x": 510110.0,
+        "y": 6450005.0,
+        "Au_ppb": 3.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 148,
+        "SampleNo": "SYN-147",
+        "Source": "Batch-1",
+        "x": 510114.0,
+        "y": 6450008.0,
+        "Au_ppb": 9.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 149,
+        "SampleNo": "SYN-148",
+        "Source": "Batch-2",
+        "x": 510125.0,
+        "y": 6450005.0,
+        "Au_ppb": 7.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 149,
+        "SampleNo": "SYN-148",
+        "Source": "Batch-2",
+        "x": 510129.0,
+        "y": 6450008.0,
+        "Au_ppb": 13.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 150,
+        "SampleNo": "SYN-149",
+        "Source": "Batch-3",
+        "x": 510140.0,
+        "y": 6450005.0,
+        "Au_ppb": 11.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 150,
+        "SampleNo": "SYN-149",
+        "Source": "Batch-3",
+        "x": 510144.0,
+        "y": 6450008.0,
+        "Au_ppb": 17.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 151,
+        "SampleNo": "SYN-150",
+        "Source": "Batch-1",
+        "x": 510155.0,
+        "y": 6450005.0,
+        "Au_ppb": 15.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 151,
+        "SampleNo": "SYN-150",
+        "Source": "Batch-1",
+        "x": 510159.0,
+        "y": 6450008.0,
+        "Au_ppb": 21.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 152,
+        "SampleNo": "SYN-151",
+        "Source": "Batch-2",
+        "x": 510170.0,
+        "y": 6450005.0,
+        "Au_ppb": 19.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 152,
+        "SampleNo": "SYN-151",
+        "Source": "Batch-2",
+        "x": 510174.0,
+        "y": 6450008.0,
+        "Au_ppb": 5.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 153,
+        "SampleNo": "SYN-152",
+        "Source": "Batch-3",
+        "x": 509900.0,
+        "y": 6450020.0,
+        "Au_ppb": 3.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 153,
+        "SampleNo": "SYN-152",
+        "Source": "Batch-3",
+        "x": 509904.0,
+        "y": 6450023.0,
+        "Au_ppb": 9.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 154,
+        "SampleNo": "SYN-153",
+        "Source": "Batch-1",
+        "x": 509915.0,
+        "y": 6450020.0,
+        "Au_ppb": 7.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 154,
+        "SampleNo": "SYN-153",
+        "Source": "Batch-1",
+        "x": 509919.0,
+        "y": 6450023.0,
+        "Au_ppb": 13.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 155,
+        "SampleNo": "SYN-154",
+        "Source": "Batch-2",
+        "x": 509930.0,
+        "y": 6450020.0,
+        "Au_ppb": 11.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 155,
+        "SampleNo": "SYN-154",
+        "Source": "Batch-2",
+        "x": 509934.0,
+        "y": 6450023.0,
+        "Au_ppb": 17.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 156,
+        "SampleNo": "SYN-155",
+        "Source": "Batch-3",
+        "x": 509945.0,
+        "y": 6450020.0,
+        "Au_ppb": 15.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 156,
+        "SampleNo": "SYN-155",
+        "Source": "Batch-3",
+        "x": 509949.0,
+        "y": 6450023.0,
+        "Au_ppb": 21.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 157,
+        "SampleNo": "SYN-156",
+        "Source": "Batch-1",
+        "x": 509960.0,
+        "y": 6450020.0,
+        "Au_ppb": 19.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 157,
+        "SampleNo": "SYN-156",
+        "Source": "Batch-1",
+        "x": 509964.0,
+        "y": 6450023.0,
+        "Au_ppb": 5.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 158,
+        "SampleNo": "SYN-157",
+        "Source": "Batch-2",
+        "x": 509975.0,
+        "y": 6450020.0,
+        "Au_ppb": 3.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 158,
+        "SampleNo": "SYN-157",
+        "Source": "Batch-2",
+        "x": 509979.0,
+        "y": 6450023.0,
+        "Au_ppb": 9.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 159,
+        "SampleNo": "SYN-158",
+        "Source": "Batch-3",
+        "x": 509990.0,
+        "y": 6450020.0,
+        "Au_ppb": 7.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 159,
+        "SampleNo": "SYN-158",
+        "Source": "Batch-3",
+        "x": 509994.0,
+        "y": 6450023.0,
+        "Au_ppb": 13.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 160,
+        "SampleNo": "SYN-159",
+        "Source": "Batch-1",
+        "x": 510005.0,
+        "y": 6450020.0,
+        "Au_ppb": 51.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 160,
+        "SampleNo": "SYN-159",
+        "Source": "Batch-1",
+        "x": 510009.0,
+        "y": 6450023.0,
+        "Au_ppb": 57.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 161,
+        "SampleNo": "SYN-160",
+        "Source": "Batch-2",
+        "x": 510020.0,
+        "y": 6450020.0,
+        "Au_ppb": 15.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 161,
+        "SampleNo": "SYN-160",
+        "Source": "Batch-2",
+        "x": 510024.0,
+        "y": 6450023.0,
+        "Au_ppb": 21.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 162,
+        "SampleNo": "SYN-161",
+        "Source": "Batch-3",
+        "x": 510035.0,
+        "y": 6450020.0,
+        "Au_ppb": 19.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 162,
+        "SampleNo": "SYN-161",
+        "Source": "Batch-3",
+        "x": 510039.0,
+        "y": 6450023.0,
+        "Au_ppb": 4.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 163,
+        "SampleNo": "SYN-162",
+        "Source": "Batch-1",
+        "x": 510050.0,
+        "y": 6450020.0,
+        "Au_ppb": 3.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 163,
+        "SampleNo": "SYN-162",
+        "Source": "Batch-1",
+        "x": 510054.0,
+        "y": 6450023.0,
+        "Au_ppb": 8.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 164,
+        "SampleNo": "SYN-163",
+        "Source": "Batch-2",
+        "x": 510065.0,
+        "y": 6450020.0,
+        "Au_ppb": 7.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 164,
+        "SampleNo": "SYN-163",
+        "Source": "Batch-2",
+        "x": 510069.0,
+        "y": 6450023.0,
+        "Au_ppb": 12.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 165,
+        "SampleNo": "SYN-164",
+        "Source": "Batch-3",
+        "x": 510080.0,
+        "y": 6450020.0,
+        "Au_ppb": 11.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 165,
+        "SampleNo": "SYN-164",
+        "Source": "Batch-3",
+        "x": 510084.0,
+        "y": 6450023.0,
+        "Au_ppb": 16.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 166,
+        "SampleNo": "SYN-165",
+        "Source": "Batch-1",
+        "x": 510095.0,
+        "y": 6450020.0,
+        "Au_ppb": 15.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 166,
+        "SampleNo": "SYN-165",
+        "Source": "Batch-1",
+        "x": 510099.0,
+        "y": 6450023.0,
+        "Au_ppb": 20.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 167,
+        "SampleNo": "SYN-166",
+        "Source": "Batch-2",
+        "x": 510110.0,
+        "y": 6450020.0,
+        "Au_ppb": 19.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 167,
+        "SampleNo": "SYN-166",
+        "Source": "Batch-2",
+        "x": 510114.0,
+        "y": 6450023.0,
+        "Au_ppb": 4.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 168,
+        "SampleNo": "SYN-167",
+        "Source": "Batch-3",
+        "x": 510125.0,
+        "y": 6450020.0,
+        "Au_ppb": 23.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 168,
+        "SampleNo": "SYN-167",
+        "Source": "Batch-3",
+        "x": 510129.0,
+        "y": 6450023.0,
+        "Au_ppb": 8.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 169,
+        "SampleNo": "SYN-168",
+        "Source": "Batch-1",
+        "x": 510140.0,
+        "y": 6450020.0,
+        "Au_ppb": 6.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 169,
+        "SampleNo": "SYN-168",
+        "Source": "Batch-1",
+        "x": 510144.0,
+        "y": 6450023.0,
+        "Au_ppb": 12.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 170,
+        "SampleNo": "SYN-169",
+        "Source": "Batch-2",
+        "x": 510155.0,
+        "y": 6450020.0,
+        "Au_ppb": 10.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 170,
+        "SampleNo": "SYN-169",
+        "Source": "Batch-2",
+        "x": 510159.0,
+        "y": 6450023.0,
+        "Au_ppb": 16.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 171,
+        "SampleNo": "SYN-170",
+        "Source": "Batch-3",
+        "x": 510170.0,
+        "y": 6450020.0,
+        "Au_ppb": 14.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 171,
+        "SampleNo": "SYN-170",
+        "Source": "Batch-3",
+        "x": 510174.0,
+        "y": 6450023.0,
+        "Au_ppb": 20.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 172,
+        "SampleNo": "SYN-171",
+        "Source": "Batch-1",
+        "x": 509900.0,
+        "y": 6450035.0,
+        "Au_ppb": 18.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 172,
+        "SampleNo": "SYN-171",
+        "Source": "Batch-1",
+        "x": 509904.0,
+        "y": 6450038.0,
+        "Au_ppb": 4.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 173,
+        "SampleNo": "SYN-172",
+        "Source": "Batch-2",
+        "x": 509915.0,
+        "y": 6450035.0,
+        "Au_ppb": 22.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 173,
+        "SampleNo": "SYN-172",
+        "Source": "Batch-2",
+        "x": 509919.0,
+        "y": 6450038.0,
+        "Au_ppb": 8.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 174,
+        "SampleNo": "SYN-173",
+        "Source": "Batch-3",
+        "x": 509930.0,
+        "y": 6450035.0,
+        "Au_ppb": 6.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 174,
+        "SampleNo": "SYN-173",
+        "Source": "Batch-3",
+        "x": 509934.0,
+        "y": 6450038.0,
+        "Au_ppb": 12.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 175,
+        "SampleNo": "SYN-174",
+        "Source": "Batch-1",
+        "x": 509945.0,
+        "y": 6450035.0,
+        "Au_ppb": 10.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 175,
+        "SampleNo": "SYN-174",
+        "Source": "Batch-1",
+        "x": 509949.0,
+        "y": 6450038.0,
+        "Au_ppb": 16.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 176,
+        "SampleNo": "SYN-175",
+        "Source": "Batch-2",
+        "x": 509960.0,
+        "y": 6450035.0,
+        "Au_ppb": 14.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 176,
+        "SampleNo": "SYN-175",
+        "Source": "Batch-2",
+        "x": 509964.0,
+        "y": 6450038.0,
+        "Au_ppb": 20.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 177,
+        "SampleNo": "SYN-176",
+        "Source": "Batch-3",
+        "x": 509975.0,
+        "y": 6450035.0,
+        "Au_ppb": 18.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 177,
+        "SampleNo": "SYN-176",
+        "Source": "Batch-3",
+        "x": 509979.0,
+        "y": 6450038.0,
+        "Au_ppb": 4.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 178,
+        "SampleNo": "SYN-177",
+        "Source": "Batch-1",
+        "x": 509990.0,
+        "y": 6450035.0,
+        "Au_ppb": 22.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 178,
+        "SampleNo": "SYN-177",
+        "Source": "Batch-1",
+        "x": 509994.0,
+        "y": 6450038.0,
+        "Au_ppb": 8.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 179,
+        "SampleNo": "SYN-178",
+        "Source": "Batch-2",
+        "x": 510005.0,
+        "y": 6450035.0,
+        "Au_ppb": 6.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 179,
+        "SampleNo": "SYN-178",
+        "Source": "Batch-2",
+        "x": 510009.0,
+        "y": 6450038.0,
+        "Au_ppb": 12.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 180,
+        "SampleNo": "SYN-179",
+        "Source": "Batch-3",
+        "x": 510020.0,
+        "y": 6450035.0,
+        "Au_ppb": 10.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 180,
+        "SampleNo": "SYN-179",
+        "Source": "Batch-3",
+        "x": 510024.0,
+        "y": 6450038.0,
+        "Au_ppb": 16.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 181,
+        "SampleNo": "SYN-180",
+        "Source": "Batch-1",
+        "x": 510035.0,
+        "y": 6450035.0,
+        "Au_ppb": 14.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 181,
+        "SampleNo": "SYN-180",
+        "Source": "Batch-1",
+        "x": 510039.0,
+        "y": 6450038.0,
+        "Au_ppb": 20.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 182,
+        "SampleNo": "SYN-181",
+        "Source": "Batch-2",
+        "x": 510050.0,
+        "y": 6450035.0,
+        "Au_ppb": 18.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 182,
+        "SampleNo": "SYN-181",
+        "Source": "Batch-2",
+        "x": 510054.0,
+        "y": 6450038.0,
+        "Au_ppb": 3.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 183,
+        "SampleNo": "SYN-182",
+        "Source": "Batch-3",
+        "x": 510065.0,
+        "y": 6450035.0,
+        "Au_ppb": 22.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 183,
+        "SampleNo": "SYN-182",
+        "Source": "Batch-3",
+        "x": 510069.0,
+        "y": 6450038.0,
+        "Au_ppb": 7.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 184,
+        "SampleNo": "SYN-183",
+        "Source": "Batch-1",
+        "x": 510080.0,
+        "y": 6450035.0,
+        "Au_ppb": 6.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 184,
+        "SampleNo": "SYN-183",
+        "Source": "Batch-1",
+        "x": 510084.0,
+        "y": 6450038.0,
+        "Au_ppb": 11.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 185,
+        "SampleNo": "SYN-184",
+        "Source": "Batch-2",
+        "x": 510095.0,
+        "y": 6450035.0,
+        "Au_ppb": 10.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 185,
+        "SampleNo": "SYN-184",
+        "Source": "Batch-2",
+        "x": 510099.0,
+        "y": 6450038.0,
+        "Au_ppb": 15.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 186,
+        "SampleNo": "SYN-185",
+        "Source": "Batch-3",
+        "x": 510110.0,
+        "y": 6450035.0,
+        "Au_ppb": 14.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 186,
+        "SampleNo": "SYN-185",
+        "Source": "Batch-3",
+        "x": 510114.0,
+        "y": 6450038.0,
+        "Au_ppb": 19.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 187,
+        "SampleNo": "SYN-186",
+        "Source": "Batch-1",
+        "x": 510125.0,
+        "y": 6450035.0,
+        "Au_ppb": 18.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 187,
+        "SampleNo": "SYN-186",
+        "Source": "Batch-1",
+        "x": 510129.0,
+        "y": 6450038.0,
+        "Au_ppb": 3.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 188,
+        "SampleNo": "SYN-187",
+        "Source": "Batch-2",
+        "x": 510140.0,
+        "y": 6450035.0,
+        "Au_ppb": 22.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 188,
+        "SampleNo": "SYN-187",
+        "Source": "Batch-2",
+        "x": 510144.0,
+        "y": 6450038.0,
+        "Au_ppb": 7.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 189,
+        "SampleNo": "SYN-188",
+        "Source": "Batch-3",
+        "x": 510155.0,
+        "y": 6450035.0,
+        "Au_ppb": 5.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 189,
+        "SampleNo": "SYN-188",
+        "Source": "Batch-3",
+        "x": 510159.0,
+        "y": 6450038.0,
+        "Au_ppb": 11.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 190,
+        "SampleNo": "SYN-189",
+        "Source": "Batch-1",
+        "x": 510170.0,
+        "y": 6450035.0,
+        "Au_ppb": 9.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 190,
+        "SampleNo": "SYN-189",
+        "Source": "Batch-1",
+        "x": 510174.0,
+        "y": 6450038.0,
+        "Au_ppb": 15.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 191,
+        "SampleNo": "SYN-190",
+        "Source": "Batch-2",
+        "x": 509900.0,
+        "y": 6450050.0,
+        "Au_ppb": 13.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 191,
+        "SampleNo": "SYN-190",
+        "Source": "Batch-2",
+        "x": 509904.0,
+        "y": 6450053.0,
+        "Au_ppb": 19.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 192,
+        "SampleNo": "SYN-191",
+        "Source": "Batch-3",
+        "x": 509915.0,
+        "y": 6450050.0,
+        "Au_ppb": 17.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 192,
+        "SampleNo": "SYN-191",
+        "Source": "Batch-3",
+        "x": 509919.0,
+        "y": 6450053.0,
+        "Au_ppb": 3.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 193,
+        "SampleNo": "SYN-192",
+        "Source": "Batch-1",
+        "x": 509930.0,
+        "y": 6450050.0,
+        "Au_ppb": 21.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 193,
+        "SampleNo": "SYN-192",
+        "Source": "Batch-1",
+        "x": 509934.0,
+        "y": 6450053.0,
+        "Au_ppb": 7.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 194,
+        "SampleNo": "SYN-193",
+        "Source": "Batch-2",
+        "x": 509945.0,
+        "y": 6450050.0,
+        "Au_ppb": 5.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 194,
+        "SampleNo": "SYN-193",
+        "Source": "Batch-2",
+        "x": 509949.0,
+        "y": 6450053.0,
+        "Au_ppb": 11.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 195,
+        "SampleNo": "SYN-194",
+        "Source": "Batch-3",
+        "x": 509960.0,
+        "y": 6450050.0,
+        "Au_ppb": 9.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 195,
+        "SampleNo": "SYN-194",
+        "Source": "Batch-3",
+        "x": 509964.0,
+        "y": 6450053.0,
+        "Au_ppb": 15.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 196,
+        "SampleNo": "SYN-195",
+        "Source": "Batch-1",
+        "x": 509975.0,
+        "y": 6450050.0,
+        "Au_ppb": 13.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 196,
+        "SampleNo": "SYN-195",
+        "Source": "Batch-1",
+        "x": 509979.0,
+        "y": 6450053.0,
+        "Au_ppb": 19.25
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 197,
+        "SampleNo": "SYN-196",
+        "Source": "Batch-2",
+        "x": 509990.0,
+        "y": 6450050.0,
+        "Au_ppb": 17.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 197,
+        "SampleNo": "SYN-196",
+        "Source": "Batch-2",
+        "x": 509994.0,
+        "y": 6450053.0,
+        "Au_ppb": 3.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 198,
+        "SampleNo": "SYN-197",
+        "Source": "Batch-3",
+        "x": 510005.0,
+        "y": 6450050.0,
+        "Au_ppb": 21.5
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 198,
+        "SampleNo": "SYN-197",
+        "Source": "Batch-3",
+        "x": 510009.0,
+        "y": 6450053.0,
+        "Au_ppb": 7.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 199,
+        "SampleNo": "SYN-198",
+        "Source": "Batch-1",
+        "x": 510020.0,
+        "y": 6450050.0,
+        "Au_ppb": 5.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 199,
+        "SampleNo": "SYN-198",
+        "Source": "Batch-1",
+        "x": 510024.0,
+        "y": 6450053.0,
+        "Au_ppb": 11.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 200,
+        "SampleNo": "SYN-199",
+        "Source": "Batch-2",
+        "x": 510035.0,
+        "y": 6450050.0,
+        "Au_ppb": 9.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 200,
+        "SampleNo": "SYN-199",
+        "Source": "Batch-2",
+        "x": 510039.0,
+        "y": 6450053.0,
+        "Au_ppb": 15.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 201,
+        "SampleNo": "SYN-200",
+        "Source": "Batch-3",
+        "x": 510050.0,
+        "y": 6450050.0,
+        "Au_ppb": 13.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 201,
+        "SampleNo": "SYN-200",
+        "Source": "Batch-3",
+        "x": 510054.0,
+        "y": 6450053.0,
+        "Au_ppb": 19.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 202,
+        "SampleNo": "SYN-201",
+        "Source": "Batch-1",
+        "x": 510065.0,
+        "y": 6450050.0,
+        "Au_ppb": 17.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 202,
+        "SampleNo": "SYN-201",
+        "Source": "Batch-1",
+        "x": 510069.0,
+        "y": 6450053.0,
+        "Au_ppb": 23.0
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 203,
+        "SampleNo": "SYN-202",
+        "Source": "Batch-2",
+        "x": 510080.0,
+        "y": 6450050.0,
+        "Au_ppb": 21.25
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 203,
+        "SampleNo": "SYN-202",
+        "Source": "Batch-2",
+        "x": 510084.0,
+        "y": 6450053.0,
+        "Au_ppb": 6.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 204,
+        "SampleNo": "SYN-203",
+        "Source": "Batch-3",
+        "x": 510095.0,
+        "y": 6450050.0,
+        "Au_ppb": 5.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 204,
+        "SampleNo": "SYN-203",
+        "Source": "Batch-3",
+        "x": 510099.0,
+        "y": 6450053.0,
+        "Au_ppb": 10.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 205,
+        "SampleNo": "SYN-204",
+        "Source": "Batch-1",
+        "x": 510110.0,
+        "y": 6450050.0,
+        "Au_ppb": 9.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 205,
+        "SampleNo": "SYN-204",
+        "Source": "Batch-1",
+        "x": 510114.0,
+        "y": 6450053.0,
+        "Au_ppb": 14.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 206,
+        "SampleNo": "SYN-205",
+        "Source": "Batch-2",
+        "x": 510125.0,
+        "y": 6450050.0,
+        "Au_ppb": 13.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 206,
+        "SampleNo": "SYN-205",
+        "Source": "Batch-2",
+        "x": 510129.0,
+        "y": 6450053.0,
+        "Au_ppb": 18.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 207,
+        "SampleNo": "SYN-206",
+        "Source": "Batch-3",
+        "x": 510140.0,
+        "y": 6450050.0,
+        "Au_ppb": 17.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 207,
+        "SampleNo": "SYN-206",
+        "Source": "Batch-3",
+        "x": 510144.0,
+        "y": 6450053.0,
+        "Au_ppb": 22.75
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 208,
+        "SampleNo": "SYN-207",
+        "Source": "Batch-1",
+        "x": 510155.0,
+        "y": 6450050.0,
+        "Au_ppb": 21.0
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 208,
+        "SampleNo": "SYN-207",
+        "Source": "Batch-1",
+        "x": 510159.0,
+        "y": 6450053.0,
+        "Au_ppb": 6.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 209,
+        "SampleNo": "SYN-208",
+        "Source": "Batch-2",
+        "x": 510170.0,
+        "y": 6450050.0,
+        "Au_ppb": 4.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 209,
+        "SampleNo": "SYN-208",
+        "Source": "Batch-2",
+        "x": 510174.0,
+        "y": 6450053.0,
+        "Au_ppb": 10.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 210,
+        "SampleNo": "SYN-209",
+        "Source": "Batch-3",
+        "x": 509900.0,
+        "y": 6450065.0,
+        "Au_ppb": 8.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 210,
+        "SampleNo": "SYN-209",
+        "Source": "Batch-3",
+        "x": 509904.0,
+        "y": 6450068.0,
+        "Au_ppb": 14.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 211,
+        "SampleNo": "SYN-210",
+        "Source": "Batch-1",
+        "x": 509915.0,
+        "y": 6450065.0,
+        "Au_ppb": 12.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 211,
+        "SampleNo": "SYN-210",
+        "Source": "Batch-1",
+        "x": 509919.0,
+        "y": 6450068.0,
+        "Au_ppb": 18.5
+      }
+    ],
+    [
+      {
+        "medium": "2mm",
+        "row_number": 212,
+        "SampleNo": "SYN-211",
+        "Source": "Batch-2",
+        "x": 509930.0,
+        "y": 6450065.0,
+        "Au_ppb": 16.75
+      },
+      {
+        "medium": "80mesh",
+        "row_number": 212,
+        "SampleNo": "SYN-211",
+        "Source": "Batch-2",
+        "x": 509934.0,
+        "y": 6450068.0,
+        "Au_ppb": 22.5
+      }
+    ]
+  ]
+}

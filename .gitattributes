@@ -1,0 +1,16 @@
+* text=auto
+*.json text eol=lf
+*.jsonl text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.html text eol=lf
+*.sql text eol=lf
+uv.lock text eol=lf
+*.shp binary
+*.shx binary
+*.dbf binary
+*.prj binary
+*.cpg binary
+*.csv binary
+*.obj binary
+assets/bundled/** -text

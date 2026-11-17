@@ -1,0 +1,35 @@
+{
+  "fixture": "Synthetic training project",
+  "scene": {
+    "horizontal_crs": "EPSG:28351",
+    "coordinate_unit": "m",
+    "vertical_datum": "unknown"
+  },
+  "sources": [
+    {
+      "path": "data/synthetic/mining/drill1/01_collar.csv",
+      "role": "collar",
+      "crs_evidence": "synthetic scene convention",
+      "data_status": "synthetic",
+      "bytes": 304,
+      "sha256": "824bd15d4c3032805bc99582ff59bf798a82e319fdf4e94c115faaf24cd3322f"
+    },
+    {
+      "path": "data/synthetic/mining/meshes/synthetic_solid_P50.obj",
+      "role": "interpretation_mesh",
+      "crs_evidence": "synthetic scene convention",
+      "data_status": "synthetic",
+      "bytes": 300,
+      "sha256": "0a8f830da1de10902bafae7642b1c6f0a305b044cd9ae50dc9e64e75aff85290"
+    },
+    {
+      "path": "data/synthetic/mining/velocity/velocity_15m_EPSG32751.csv",
+      "role": "velocity_hint",
+      "crs_evidence": "file name only",
+      "data_status": "synthetic",
+      "bytes": 5286,
+      "sha256": "a084bcc6036f889a0287b513a7553437b4ecbb5246a180d5e6bb68e577836d67"
+    }
+  ],
+  "scope": "Inventory metadata may refer to fixtures outside a single task's input selection."
+}

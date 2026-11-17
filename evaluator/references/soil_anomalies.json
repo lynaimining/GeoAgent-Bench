@@ -1,0 +1,118 @@
+{
+  "thresholds": {
+    "2mm": {
+      "n": 265,
+      "missing": 1,
+      "min": -1.0,
+      "max": 62.0,
+      "median": 13.25,
+      "q1": 8.0,
+      "q3": 18.5,
+      "MAD": 5.25,
+      "threshold": 36.60095
+    },
+    "80mesh": {
+      "n": 211,
+      "missing": 1,
+      "min": -1.0,
+      "max": 58.25,
+      "median": 13.0,
+      "q1": 7.875,
+      "q3": 18.5,
+      "MAD": 5.25,
+      "threshold": 36.35095
+    }
+  },
+  "anomalies": [
+    {
+      "medium": "2mm",
+      "row_number": 1,
+      "SampleNo": "SYN-000",
+      "Source": "Batch-1",
+      "x": 509900.0,
+      "y": 6449900.0,
+      "Au_ppb": 43.0
+    },
+    {
+      "medium": "2mm",
+      "row_number": 54,
+      "SampleNo": "SYN-053",
+      "Source": "Batch-3",
+      "x": 510125.0,
+      "y": 6449930.0,
+      "Au_ppb": 52.5
+    },
+    {
+      "medium": "2mm",
+      "row_number": 107,
+      "SampleNo": "SYN-106",
+      "Source": "Batch-2",
+      "x": 510065.0,
+      "y": 6449975.0,
+      "Au_ppb": 62.0
+    },
+    {
+      "medium": "2mm",
+      "row_number": 160,
+      "SampleNo": "SYN-159",
+      "Source": "Batch-1",
+      "x": 510005.0,
+      "y": 6450020.0,
+      "Au_ppb": 51.25
+    },
+    {
+      "medium": "2mm",
+      "row_number": 213,
+      "SampleNo": "SYN-212",
+      "Source": "Batch-3",
+      "x": 509945.0,
+      "y": 6450065.0,
+      "Au_ppb": 60.75
+    },
+    {
+      "medium": "2mm",
+      "row_number": 266,
+      "SampleNo": "SYN-265",
+      "Source": "Batch-2",
+      "x": 510170.0,
+      "y": 6450095.0,
+      "Au_ppb": 50.0
+    },
+    {
+      "medium": "80mesh",
+      "row_number": 1,
+      "SampleNo": "SYN-000",
+      "Source": "Batch-1",
+      "x": 509904.0,
+      "y": 6449903.0,
+      "Au_ppb": 48.75
+    },
+    {
+      "medium": "80mesh",
+      "row_number": 54,
+      "SampleNo": "SYN-053",
+      "Source": "Batch-3",
+      "x": 510129.0,
+      "y": 6449933.0,
+      "Au_ppb": 58.25
+    },
+    {
+      "medium": "80mesh",
+      "row_number": 107,
+      "SampleNo": "SYN-106",
+      "Source": "Batch-2",
+      "x": 510069.0,
+      "y": 6449978.0,
+      "Au_ppb": 47.5
+    },
+    {
+      "medium": "80mesh",
+      "row_number": 160,
+      "SampleNo": "SYN-159",
+      "Source": "Batch-1",
+      "x": 510009.0,
+      "y": 6450023.0,
+      "Au_ppb": 57.0
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "claim": "只要训练 AUC≥0.9，即证明模型可以发现新矿床。",
+  "claim_status": "local audit stimulus, not an attributed quote",
+  "upstream_reference": "GABench ID53 sets final AUC>=0.9; this extended claim is intentionally constructed for evaluation."
+}

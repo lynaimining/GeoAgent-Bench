@@ -1,0 +1,59 @@
+{
+  "status": "benchmark_recipe_not_validated_exploration_model",
+  "crs": "EPSG:28355",
+  "cell_size_m": 5000,
+  "grid_anchor": [
+    0,
+    0
+  ],
+  "grid_rule": "Cells with integer ix=floor(x/5000), iy=floor(y/5000); center=(ix+0.5,iy+0.5)*5000. Candidate centers inside intersection of source raster bounds; retain all-seven valid nearest samples. Each cell nominal area=25 km². This coarse, center-sampled study support is not exact coastline/land area.",
+  "features": [
+    "tasgrav_IR_1VD",
+    "tasgrav_IR",
+    "tasmag_TMI_1VD",
+    "tasmag_TMI",
+    "tasrad_K_pct",
+    "tasrad_Th_ppm",
+    "tasrad_U_ppm"
+  ],
+  "point_cell_rule": "floor projected coordinates / 5000; retain deposit lists; out-of-support points unlabelled-outside, never move them",
+  "label": "P=at least one occurrence in retained cell; U=unlabelled elsewhere, not confirmed barren",
+  "block_size_m": 40000,
+  "block_rule": "bx=floor(x/40000), by=floor(y/40000); sort unique (bx,by) lexicographically; fold=zero-based block rank % 5. No labels used to choose folds. Same deposit across cells must be reported as conflict. A fold without P has undefined AP/AUC/capture, report it rather than alter the split.",
+  "scaler": "Training rows only, population standard deviation ddof=0; std=0 -> z=0",
+  "weight_scenarios": {
+    "base": [
+      0.15,
+      0.1,
+      0.15,
+      0.1,
+      0.2,
+      0.15,
+      0.15
+    ],
+    "radiometric": [
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.3,
+      0.25,
+      0.25
+    ],
+    "geophysical": [
+      0.25,
+      0.2,
+      0.25,
+      0.15,
+      0.05,
+      0.05,
+      0.05
+    ]
+  },
+  "knowledge_score": "dot(z, weights), scaler train fold !=0; no probability interpretation",
+  "PU_centroid_baseline": "For each held-out fold, fit scaler on other folds; obtain mean z vectors mP,mU on training only; score=dot(z,mP-mU)-0.5*(dot(mP,mP)-dot(mU,mU)); no probability claim. If either class absent, fold undefined.",
+  "area_selection": "sort score descending then cell_id ascending; longest prefix cumulative area <= budget*total area; actual selected area fraction used in lift",
+  "AUROC": "pairwise P vs U wins + 0.5 ties, divided by nP*nU",
+  "AP": "group identical score thresholds; sum over thresholds (recall_i-recall_previous)*precision_i; no linear interpolation",
+  "reporting": "show per-fold denominators, undefined values, macro and pooled summaries separately; no universal skill threshold; all OOF predictions held_out=1; grouped splits reduce but do not certify absence of spatial/deposit leakage"
+}

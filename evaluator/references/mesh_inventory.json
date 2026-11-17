@@ -1,0 +1,71 @@
+{
+  "P30": {
+    "file": "synthetic_solid_P30.obj",
+    "vertices": 9,
+    "faces": 13,
+    "non_triangles": 0,
+    "bbox": [
+      510008.0,
+      6450002.0,
+      275.0,
+      510115.0,
+      6450080.0,
+      338.0
+    ],
+    "index_range": [
+      1,
+      9
+    ],
+    "boundary_edges": 5,
+    "nonmanifold_edges": 4,
+    "two_use_edges": 11,
+    "zero_area_faces": 1,
+    "duplicate_faces": 1
+  },
+  "P50": {
+    "file": "synthetic_solid_P50.obj",
+    "vertices": 8,
+    "faces": 12,
+    "non_triangles": 0,
+    "bbox": [
+      510016.0,
+      6450008.0,
+      282.0,
+      510107.0,
+      6450073.0,
+      331.0
+    ],
+    "index_range": [
+      1,
+      8
+    ],
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "two_use_edges": 18,
+    "zero_area_faces": 0,
+    "duplicate_faces": 0
+  },
+  "P70": {
+    "file": "synthetic_solid_P70.obj",
+    "vertices": 8,
+    "faces": 12,
+    "non_triangles": 0,
+    "bbox": [
+      510024.0,
+      6450014.0,
+      289.0,
+      510099.0,
+      6450066.0,
+      324.0
+    ],
+    "index_range": [
+      1,
+      8
+    ],
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "two_use_edges": 18,
+    "zero_area_faces": 0,
+    "duplicate_faces": 0
+  }
+}

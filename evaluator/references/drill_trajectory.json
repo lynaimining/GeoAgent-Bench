@@ -1,0 +1,340 @@
+{
+  "rows": [
+    {
+      "hole_id": "DEMO-1-01",
+      "depth": 0,
+      "x": 510000.0,
+      "y": 6450000.0,
+      "z": 352.0,
+      "source_survey_row": 1,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-01",
+      "depth": 12.0,
+      "x": 510000.2441964406,
+      "y": 6450003.29081067,
+      "z": 340.4640286732339,
+      "source_survey_row": 2,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-01",
+      "depth": 24.0,
+      "x": 510001.0269709626,
+      "y": 6450006.9066316765,
+      "z": 329.0501667403755,
+      "source_survey_row": 3,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-01",
+      "depth": 30.0,
+      "x": 510001.73367689026,
+      "y": 6450008.82821544,
+      "z": 323.41122951995663,
+      "source_survey_row": 4,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "depth": 0,
+      "x": 510029.0,
+      "y": 6450013.0,
+      "z": 353.0,
+      "source_survey_row": null,
+      "first_attitude_extended": true
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "depth": 3.0,
+      "x": 510029.3363354384,
+      "y": 6450013.755421763,
+      "z": 350.11621491218506,
+      "source_survey_row": 5,
+      "first_attitude_extended": true
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "depth": 12.0,
+      "x": 510030.57802955864,
+      "y": 6450016.06838468,
+      "z": 341.50871928156363,
+      "source_survey_row": 6,
+      "first_attitude_extended": true
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "depth": 24.0,
+      "x": 510032.8802603864,
+      "y": 6450019.213626901,
+      "z": 330.1611260406472,
+      "source_survey_row": 7,
+      "first_attitude_extended": true
+    },
+    {
+      "hole_id": "DEMO-1-02",
+      "depth": 30.0,
+      "x": 510034.37542286166,
+      "y": 6450020.752093093,
+      "z": 324.55876291983554,
+      "source_survey_row": 8,
+      "first_attitude_extended": true
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "depth": 0,
+      "x": 510058.0,
+      "y": 6450026.0,
+      "z": 354.0,
+      "source_survey_row": 9,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "depth": 12.0,
+      "x": 510060.9238450147,
+      "y": 6450028.266721825,
+      "z": 342.58613806714163,
+      "source_survey_row": 10,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "depth": 24.0,
+      "x": 510064.47692178,
+      "y": 6450030.302235324,
+      "z": 331.30826362630387,
+      "source_survey_row": 11,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-03",
+      "depth": 30.0,
+      "x": 510066.5587253277,
+      "y": 6450031.136031642,
+      "z": 325.7441784360213,
+      "source_survey_row": 12,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "depth": 0,
+      "x": 510087.0,
+      "y": 6450039.0,
+      "z": 355.0,
+      "source_survey_row": 13,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "depth": 12.0,
+      "x": 510090.7853338613,
+      "y": 6450039.929549875,
+      "z": 343.6524067590836,
+      "source_survey_row": 14,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "depth": 24.0,
+      "x": 510095.05386968504,
+      "y": 6450040.364473002,
+      "z": 332.4476805174603,
+      "source_survey_row": 15,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-04",
+      "depth": 30.0,
+      "x": 510097.39134569373,
+      "y": 6450040.276116258,
+      "z": 326.923565708408,
+      "source_survey_row": 16,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-05",
+      "depth": 0,
+      "x": 510116.0,
+      "y": 6450000.0,
+      "z": 356.0,
+      "source_survey_row": 17,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-05",
+      "depth": 12.0,
+      "x": 510120.0302175687,
+      "y": 6449999.275420084,
+      "z": 344.72212555916224,
+      "source_survey_row": 18,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-05",
+      "depth": 24.0,
+      "x": 510124.2916335319,
+      "y": 6449997.876555103,
+      "z": 333.593955178597,
+      "source_survey_row": 19,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-05",
+      "depth": 30.0,
+      "x": 510126.47727442946,
+      "y": 6449996.803119671,
+      "z": 328.11149131238767,
+      "source_survey_row": 20,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-06",
+      "depth": 0,
+      "x": 510145.0,
+      "y": 6450013.0,
+      "z": 357.0,
+      "source_survey_row": 21,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-06",
+      "depth": 12.0,
+      "x": 510148.5494513455,
+      "y": 6450010.589408506,
+      "z": 345.7952737583767,
+      "source_survey_row": 22,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-06",
+      "depth": 24.0,
+      "x": 510152.0170831199,
+      "y": 6450007.449036888,
+      "z": 334.747044140272,
+      "source_survey_row": 23,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-06",
+      "depth": 30.0,
+      "x": 510153.6383502245,
+      "y": 6450005.506582863,
+      "z": 329.30789938340513,
+      "source_survey_row": 24,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "depth": 0,
+      "x": 510174.0,
+      "y": 6450026.0,
+      "z": 358.0,
+      "source_survey_row": 25,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "depth": 12.0,
+      "x": 510176.3652609414,
+      "y": 6450022.189221874,
+      "z": 346.8718296194348,
+      "source_survey_row": 26,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "depth": 24.0,
+      "x": 510178.33387507877,
+      "y": 6450017.734817602,
+      "z": 335.9069018870161,
+      "source_survey_row": 27,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-07",
+      "depth": 30.0,
+      "x": 510179.05097286665,
+      "y": 6450015.210172146,
+      "z": 330.51273150783396,
+      "source_survey_row": 28,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "depth": 0,
+      "x": 510203.0,
+      "y": 6450039.0,
+      "z": 359.0,
+      "source_survey_row": 29,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "depth": 12.0,
+      "x": 510203.6377680857,
+      "y": 6450034.365385033,
+      "z": 347.95177038189536,
+      "source_survey_row": 30,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "depth": 24.0,
+      "x": 510203.62452263926,
+      "y": 6450029.305111996,
+      "z": 337.0734808681616,
+      "source_survey_row": 31,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-08",
+      "depth": 30.0,
+      "x": 510203.239791508,
+      "y": 6450026.614392671,
+      "z": 331.7259267369252,
+      "source_survey_row": 32,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-09",
+      "depth": 0,
+      "x": 510232.0,
+      "y": 6450000.0,
+      "z": 360.0,
+      "source_survey_row": 33,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-09",
+      "depth": 12.0,
+      "x": 510230.644810046,
+      "y": 6449995.322327584,
+      "z": 349.0350722675813,
+      "source_survey_row": 34,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-09",
+      "depth": 24.0,
+      "x": 510228.4978459608,
+      "y": 6449990.532463193,
+      "z": 338.24673150921706,
+      "source_survey_row": 35,
+      "first_attitude_extended": false
+    },
+    {
+      "hole_id": "DEMO-1-09",
+      "depth": 30.0,
+      "x": 510227.0028613697,
+      "y": 6449988.152164038,
+      "z": 332.947421601442,
+      "source_survey_row": 36,
+      "first_attitude_extended": false
+    }
+  ],
+  "unresolved_holes": [
+    "DEMO-1-10"
+  ]
+}

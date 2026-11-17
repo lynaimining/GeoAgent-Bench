@@ -1,0 +1,11 @@
+{
+  "temperature_projected_crs": "EPSG:32616",
+  "grid": "100m pixel spacing, bbox rounded outwards to 100m; center sampling; rows north to south",
+  "IDW": "k=8,p=2, same-position mean; ties by source row; if zero distance return same-position mean; all available points if <8",
+  "elk_sample": "deterministic source-order stride ceil(N/3000); source row retained; sample only for bounded evaluation, not full-study conclusions",
+  "KDE": "Gaussian 2D: sum(exp(-d²/(2h²)))/(2*pi*h²)*1e6; h=1000m; grid step=500m; bbox rounded outwards with 3h margin",
+  "DBSCAN": "eps=500m,min_samples=10, self included, local UTM; border ambiguity compared by valid density-reachable membership",
+  "Moran": "z=x-mean; I=n/S0 * sum_i,j(wij*zi*zj)/sum_i(zi²); queen weights row standardized; islands zero; local Ii=(zi/m2)*sum_j(wij*zj), m2=sum(zi²)/n",
+  "permutation": "numpy Generator(PCG64(42)), 999 permutations; two-sided p=(1+count(abs(I_perm-EI)>=abs(I_obs-EI)))/1000, EI=-1/(n-1); zero variance -> undefined",
+  "point_polygon_tie": "smallest stable polygon ID, or source row if no unique ID"
+}

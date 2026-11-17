@@ -1,0 +1,65 @@
+[
+  {
+    "hole_id": "DEMO-1-01",
+    "measured_depth": 30.0,
+    "vertical_depth": 28.588770480043365,
+    "horizontal_displacement": 8.996834077130432,
+    "TVD_MD": 0.9529590160014455
+  },
+  {
+    "hole_id": "DEMO-1-02",
+    "measured_depth": 30.0,
+    "vertical_depth": 28.441237080164456,
+    "horizontal_displacement": 9.433457386188678,
+    "TVD_MD": 0.9480412360054818
+  },
+  {
+    "hole_id": "DEMO-1-03",
+    "measured_depth": 30.0,
+    "vertical_depth": 28.255821563978714,
+    "horizontal_displacement": 9.981512924357238,
+    "TVD_MD": 0.9418607187992905
+  },
+  {
+    "hole_id": "DEMO-1-04",
+    "measured_depth": 30.0,
+    "vertical_depth": 28.076434291592022,
+    "horizontal_displacement": 10.469409631479481,
+    "TVD_MD": 0.9358811430530675
+  },
+  {
+    "hole_id": "DEMO-1-05",
+    "measured_depth": 30.0,
+    "vertical_depth": 27.88850868761233,
+    "horizontal_displacement": 10.954146398087524,
+    "TVD_MD": 0.9296169562537443
+  },
+  {
+    "hole_id": "DEMO-1-06",
+    "measured_depth": 30.0,
+    "vertical_depth": 27.69210061659487,
+    "horizontal_displacement": 11.435575848825787,
+    "TVD_MD": 0.9230700205531623
+  },
+  {
+    "hole_id": "DEMO-1-07",
+    "measured_depth": 30.0,
+    "vertical_depth": 27.487268492166038,
+    "horizontal_displacement": 11.913551612623332,
+    "TVD_MD": 0.9162422830722012
+  },
+  {
+    "hole_id": "DEMO-1-08",
+    "measured_depth": 30.0,
+    "vertical_depth": 27.274073263074797,
+    "horizontal_displacement": 12.387928353053084,
+    "TVD_MD": 0.9091357754358266
+  },
+  {
+    "hole_id": "DEMO-1-09",
+    "measured_depth": 30.0,
+    "vertical_depth": 27.052578398558012,
+    "horizontal_displacement": 12.858561796194772,
+    "TVD_MD": 0.901752613285267
+  }
+]

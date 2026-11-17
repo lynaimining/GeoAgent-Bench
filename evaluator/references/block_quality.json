@@ -1,0 +1,82 @@
+{
+  "invalid_probability": [
+    {
+      "X": "510070",
+      "Y": "6450020",
+      "Z": "275",
+      "Series_Code": "2",
+      "Probability": "1.1",
+      "Series": "Volcanic",
+      "row_number": 22
+    },
+    {
+      "X": "510040",
+      "Y": "6450040",
+      "Z": "275",
+      "Series_Code": "4",
+      "Probability": "",
+      "Series": "Intrusive",
+      "row_number": 60
+    }
+  ],
+  "duplicate_xyz_rows": [
+    [
+      5,
+      386
+    ],
+    [
+      8,
+      387
+    ]
+  ],
+  "conflicting_xyz": [
+    [
+      8,
+      387
+    ]
+  ],
+  "series_code_conflicts": {
+    "2": [
+      "ConflictingLabel",
+      "Volcanic"
+    ]
+  },
+  "valid_probability_by_domain": {
+    "Basement": {
+      "n": 77,
+      "min": 0.34,
+      "max": 0.79,
+      "median": 0.59
+    },
+    "Surficial": {
+      "n": 77,
+      "min": 0.365,
+      "max": 0.815,
+      "median": 0.59
+    },
+    "Volcanic": {
+      "n": 76,
+      "min": 0.365,
+      "max": 0.815,
+      "median": 0.59
+    },
+    "Regolith": {
+      "n": 77,
+      "min": 0.365,
+      "max": 0.815,
+      "median": 0.59
+    },
+    "Intrusive": {
+      "n": 77,
+      "min": 0.39,
+      "max": 0.84,
+      "median": 0.59
+    },
+    "ConflictingLabel": {
+      "n": 1,
+      "min": 0.515,
+      "max": 0.515,
+      "median": 0.515
+    }
+  }
+}

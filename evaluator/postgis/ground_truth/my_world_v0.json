@@ -1,0 +1,61 @@
+{
+  "flood_001_schools_within_500m_main_river_intersects": [
+    1,
+    6,
+    7,
+    19
+  ],
+  "flood_001_strictly_within": [
+    1,
+    6,
+    7,
+    19
+  ],
+  "boundary_school_7_distance_m": 500.0,
+  "schools_per_ward": {
+    "1": [
+      1,
+      2,
+      8,
+      10,
+      14
+    ],
+    "2": [
+      3,
+      7,
+      12,
+      13
+    ],
+    "3": [
+      5,
+      9
+    ],
+    "4": [
+      4,
+      11,
+      18
+    ],
+    "5": [
+      6,
+      15,
+      16,
+      19
+    ],
+    "6": [
+      17,
+      20
+    ]
+  },
+  "moved_since_archive": [
+    3,
+    9
+  ],
+  "stale_status_in_archive": [
+    12
+  ],
+  "duplicate_address_school_ids": [
+    2,
+    5,
+    15
+  ]
+}

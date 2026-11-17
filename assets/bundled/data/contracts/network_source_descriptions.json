@@ -1,0 +1,6 @@
+{
+  "source_file": "GABench/benchmark/benchmark.csv",
+  "ID54": "supermarkets 14 locations",
+  "ID55": "supermarkets 15 locations",
+  "purpose": "compare actual record count, no injected data changes"
+}

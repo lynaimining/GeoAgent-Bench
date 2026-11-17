@@ -1,0 +1,14 @@
+{
+  "CRM1": {
+    "z": 0.6,
+    "warning": false
+  },
+  "CRM2": {
+    "z": 5,
+    "warning": true
+  },
+  "CRM3": {
+    "z": null,
+    "status": "invalid_sigma"
+  }
+}

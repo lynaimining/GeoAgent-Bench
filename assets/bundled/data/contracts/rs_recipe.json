@@ -1,0 +1,58 @@
+{
+  "status": "fixed benchmark formulas; not a calibrated field retrieval model",
+  "NBR": {
+    "nir_band_1_based": 5,
+    "swir2_band_1_based": 7,
+    "formula": "(NIR-SWIR2)/(NIR+SWIR2)",
+    "difference": "NBR2014-NBR2015",
+    "classes": "0: dNBR<=0.2; 1: dNBR>0.2; nodata separate",
+    "source": "GABench ID3 Toolchain JSON",
+    "stored_values_contract": "Compute NBR-form ratio on the supplied stored band values, matching the upstream operator chain; no unprovided calibration scale/offset is assumed. This is an operator-chain benchmark, not calibrated burn severity. Label this limitation in the output."
+  },
+  "LST": {
+    "BT_unit": "K by the author brightness-temperature input convention; stored float range was inspected (NYC ~279.64–303.06). This is a frozen benchmark convention, not independent radiometric calibration.",
+    "NDVI": "(b5-b4)/(b5+b4)",
+    "Pv": "clip(((NDVI-NDVI_min)/(NDVI_max-NDVI_min))**2,0,1); constant range -> 0",
+    "epsilon": "0.986+0.004*Pv",
+    "LST_K": "BT/(1+(10.895e-6*BT/0.01438)*ln(epsilon))",
+    "mask": "joint valid, finite, b4+b5!=0"
+  },
+  "Landsat_QA_PIXEL_bits": {
+    "fill": 0,
+    "dilated_cloud": 1,
+    "unused": 2,
+    "cloud": 3,
+    "cloud_shadow": 4,
+    "snow": 5,
+    "clear": 6,
+    "water": 7
+  },
+  "NDWI_136": {
+    "status": "not admitted as NDWI numerical task",
+    "verified_product": "Local tags SPACECRAFT_ID=LANDSAT_5, LANDSAT_PRODUCT_ID=LT05_L2SP_174038_20080417_20200829_02_T1",
+    "bands": "SR_B3 red; SR_B5 SWIR1; given pair is not green/NIR NDWI",
+    "scope": "Use these files only for file/date pairing and declared QA bit operations."
+  },
+  "NDTI_143": {
+    "red": "sur_refl_b01",
+    "green": "sur_refl_b04",
+    "formula": "(red-green)/(red+green)",
+    "mask": "joint valid, finite, denominator nonzero"
+  },
+  "all_rasters": "NoData from raster metadata/masks; valid numeric zero retained unless denominator zero; report scale/offset/tags and grid compatibility; no unrecorded resampling",
+  "QA_valid_rule": "For this Landsat5 exercise, valid iff file mask valid AND none of bits 0,1,3,4,5 set. Do not treat bit2 as cirrus; do not use bit6 alone.",
+  "method_sources": [
+    {
+      "title": "USGS Landsat 5 L2 Collection2 official Earth Engine catalog",
+      "url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LT05_C02_T1_L2",
+      "checked": "2026-11-16",
+      "supports": "Landsat5 SR_B3 red, SR_B5 SWIR1; QA_PIXEL bit2 unused and bits0,1,3,4,5 validity flags"
+    },
+    {
+      "title": "USGS Collection2 known issues",
+      "url": "https://www.usgs.gov/landsat-missions/landsat-collection-2-known-issues",
+      "checked": "2026-11-16",
+      "supports": "Do not rely solely on Landsat4-7 clear bit6 over water."
+    }
+  ]
+}

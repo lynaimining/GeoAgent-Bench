@@ -1,0 +1,12 @@
+{
+  "count": 36,
+  "invalid": [],
+  "duplicate_depths": [],
+  "original_order_decreases": [],
+  "missing_zero_station": [
+    "DEMO-1-02"
+  ],
+  "no_valid_trajectory": [
+    "DEMO-1-10"
+  ]
+}

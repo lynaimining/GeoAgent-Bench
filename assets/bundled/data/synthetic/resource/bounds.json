@@ -1,0 +1,14 @@
+{
+  "min": [
+    7,
+    0,
+    0
+  ],
+  "max": [
+    47,
+    25,
+    15
+  ],
+  "coordinate_units": "m",
+  "synthetic": true
+}

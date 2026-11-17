@@ -1,0 +1,12 @@
+{
+  "coordinates": "Synthetic scene EPSG:28351; separate CSV dataset without a CRS is only used downhole.",
+  "dip": "negative down; azimuth degrees clockwise from north",
+  "inclination": "I=90+dip (degrees from down vertical)",
+  "dogleg": "acos(clip(cos(I1)*cos(I2)+sin(I1)*sin(I2)*cos(A2-A1),-1,1))",
+  "RF": "1 when dogleg<1e-10 else 2/dogleg*tan(dogleg/2)",
+  "increments": "dx=L/2*(sin(I1)*sin(A1)+sin(I2)*sin(A2))*RF; dy=L/2*(sin(I1)*cos(A1)+sin(I2)*cos(A2))*RF; dz=-L/2*(cos(I1)+cos(I2))*RF",
+  "start": "missing depth0: first survey attitude extended back to collar, explicitly flagged",
+  "beyond_survey": "last attitude tangent extension, flagged",
+  "interval_midpoint": "unit direction vectors slerp within survey segment then minimum-curvature segment integration",
+  "grade_unit": "unknown in raw assay CSV unless independent source proves it; never assume g/t"
+}

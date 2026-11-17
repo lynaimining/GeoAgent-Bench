@@ -1,0 +1,506 @@
+[
+  {
+    "region": "Beja",
+    "year": "2018",
+    "total_patches": 14419,
+    "value": 1,
+    "label": "Coniferous Forest",
+    "percentage": 2.7
+  },
+  {
+    "region": "Beja",
+    "year": "2018",
+    "total_patches": 14419,
+    "value": 2,
+    "label": "Broadleaf Forest",
+    "percentage": 33.8
+  },
+  {
+    "region": "Beja",
+    "year": "2018",
+    "total_patches": 14419,
+    "value": 3,
+    "label": "Shrubland",
+    "percentage": 36.0
+  },
+  {
+    "region": "Beja",
+    "year": "2018",
+    "total_patches": 14419,
+    "value": 4,
+    "label": "Grassland",
+    "percentage": 8.8
+  },
+  {
+    "region": "Beja",
+    "year": "2018",
+    "total_patches": 14419,
+    "value": 5,
+    "label": "Sparse Vegetation",
+    "percentage": 0.8
+  },
+  {
+    "region": "Beja",
+    "year": "2018",
+    "total_patches": 14419,
+    "value": 6,
+    "label": "Water",
+    "percentage": 14.0
+  },
+  {
+    "region": "Beja",
+    "year": "2018",
+    "total_patches": 14419,
+    "value": 7,
+    "label": "Urban",
+    "percentage": 3.9
+  },
+  {
+    "region": "Castelo Branco",
+    "year": "2018",
+    "total_patches": 1172,
+    "value": 1,
+    "label": "Coniferous Forest",
+    "percentage": 11.4
+  },
+  {
+    "region": "Castelo Branco",
+    "year": "2018",
+    "total_patches": 1172,
+    "value": 2,
+    "label": "Broadleaf Forest",
+    "percentage": 28.9
+  },
+  {
+    "region": "Castelo Branco",
+    "year": "2018",
+    "total_patches": 1172,
+    "value": 3,
+    "label": "Shrubland",
+    "percentage": 15.8
+  },
+  {
+    "region": "Castelo Branco",
+    "year": "2018",
+    "total_patches": 1172,
+    "value": 4,
+    "label": "Grassland",
+    "percentage": 16.6
+  },
+  {
+    "region": "Castelo Branco",
+    "year": "2018",
+    "total_patches": 1172,
+    "value": 5,
+    "label": "Sparse Vegetation",
+    "percentage": 1.3
+  },
+  {
+    "region": "Castelo Branco",
+    "year": "2018",
+    "total_patches": 1172,
+    "value": 6,
+    "label": "Water",
+    "percentage": 14.9
+  },
+  {
+    "region": "Castelo Branco",
+    "year": "2018",
+    "total_patches": 1172,
+    "value": 7,
+    "label": "Urban",
+    "percentage": 11.2
+  },
+  {
+    "region": "Faro",
+    "year": "2018",
+    "total_patches": 6767,
+    "value": 1,
+    "label": "Coniferous Forest",
+    "percentage": 2.0
+  },
+  {
+    "region": "Faro",
+    "year": "2018",
+    "total_patches": 6767,
+    "value": 2,
+    "label": "Broadleaf Forest",
+    "percentage": 35.0
+  },
+  {
+    "region": "Faro",
+    "year": "2018",
+    "total_patches": 6767,
+    "value": 3,
+    "label": "Shrubland",
+    "percentage": 39.6
+  },
+  {
+    "region": "Faro",
+    "year": "2018",
+    "total_patches": 6767,
+    "value": 4,
+    "label": "Grassland",
+    "percentage": 8.2
+  },
+  {
+    "region": "Faro",
+    "year": "2018",
+    "total_patches": 6767,
+    "value": 5,
+    "label": "Sparse Vegetation",
+    "percentage": 0.7
+  },
+  {
+    "region": "Faro",
+    "year": "2018",
+    "total_patches": 6767,
+    "value": 6,
+    "label": "Water",
+    "percentage": 9.8
+  },
+  {
+    "region": "Faro",
+    "year": "2018",
+    "total_patches": 6767,
+    "value": 7,
+    "label": "Urban",
+    "percentage": 4.7
+  },
+  {
+    "region": "Leiria",
+    "year": "2018",
+    "total_patches": 2351,
+    "value": 1,
+    "label": "Coniferous Forest",
+    "percentage": 22.5
+  },
+  {
+    "region": "Leiria",
+    "year": "2018",
+    "total_patches": 2351,
+    "value": 2,
+    "label": "Broadleaf Forest",
+    "percentage": 16.9
+  },
+  {
+    "region": "Leiria",
+    "year": "2018",
+    "total_patches": 2351,
+    "value": 3,
+    "label": "Shrubland",
+    "percentage": 31.4
+  },
+  {
+    "region": "Leiria",
+    "year": "2018",
+    "total_patches": 2351,
+    "value": 4,
+    "label": "Grassland",
+    "percentage": 2.8
+  },
+  {
+    "region": "Leiria",
+    "year": "2018",
+    "total_patches": 2351,
+    "value": 5,
+    "label": "Sparse Vegetation",
+    "percentage": 1.2
+  },
+  {
+    "region": "Leiria",
+    "year": "2018",
+    "total_patches": 2351,
+    "value": 6,
+    "label": "Water",
+    "percentage": 0.0
+  },
+  {
+    "region": "Leiria",
+    "year": "2018",
+    "total_patches": 2351,
+    "value": 7,
+    "label": "Urban",
+    "percentage": 25.2
+  },
+  {
+    "region": "Lisboa",
+    "year": "2018",
+    "total_patches": 1435,
+    "value": 1,
+    "label": "Coniferous Forest",
+    "percentage": 23.1
+  },
+  {
+    "region": "Lisboa",
+    "year": "2018",
+    "total_patches": 1435,
+    "value": 2,
+    "label": "Broadleaf Forest",
+    "percentage": 22.1
+  },
+  {
+    "region": "Lisboa",
+    "year": "2018",
+    "total_patches": 1435,
+    "value": 3,
+    "label": "Shrubland",
+    "percentage": 47.1
+  },
+  {
+    "region": "Lisboa",
+    "year": "2018",
+    "total_patches": 1435,
+    "value": 4,
+    "label": "Grassland",
+    "percentage": 0.6
+  },
+  {
+    "region": "Lisboa",
+    "year": "2018",
+    "total_patches": 1435,
+    "value": 5,
+    "label": "Sparse Vegetation",
+    "percentage": 0.1
+  },
+  {
+    "region": "Lisboa",
+    "year": "2018",
+    "total_patches": 1435,
+    "value": 6,
+    "label": "Water",
+    "percentage": 4.4
+  },
+  {
+    "region": "Lisboa",
+    "year": "2018",
+    "total_patches": 1435,
+    "value": 7,
+    "label": "Urban",
+    "percentage": 2.7
+  },
+  {
+    "region": "Portalegre",
+    "year": "2018",
+    "total_patches": 6216,
+    "value": 1,
+    "label": "Coniferous Forest",
+    "percentage": 13.2
+  },
+  {
+    "region": "Portalegre",
+    "year": "2018",
+    "total_patches": 6216,
+    "value": 2,
+    "label": "Broadleaf Forest",
+    "percentage": 62.0
+  },
+  {
+    "region": "Portalegre",
+    "year": "2018",
+    "total_patches": 6216,
+    "value": 3,
+    "label": "Shrubland",
+    "percentage": 13.7
+  },
+  {
+    "region": "Portalegre",
+    "year": "2018",
+    "total_patches": 6216,
+    "value": 4,
+    "label": "Grassland",
+    "percentage": 6.9
+  },
+  {
+    "region": "Portalegre",
+    "year": "2018",
+    "total_patches": 6216,
+    "value": 5,
+    "label": "Sparse Vegetation",
+    "percentage": 0.2
+  },
+  {
+    "region": "Portalegre",
+    "year": "2018",
+    "total_patches": 6216,
+    "value": 6,
+    "label": "Water",
+    "percentage": 2.4
+  },
+  {
+    "region": "Portalegre",
+    "year": "2018",
+    "total_patches": 6216,
+    "value": 7,
+    "label": "Urban",
+    "percentage": 1.6
+  },
+  {
+    "region": "Santarém",
+    "year": "2018",
+    "total_patches": 17467,
+    "value": 1,
+    "label": "Coniferous Forest",
+    "percentage": 10.2
+  },
+  {
+    "region": "Santarém",
+    "year": "2018",
+    "total_patches": 17467,
+    "value": 2,
+    "label": "Broadleaf Forest",
+    "percentage": 38.2
+  },
+  {
+    "region": "Santarém",
+    "year": "2018",
+    "total_patches": 17467,
+    "value": 3,
+    "label": "Shrubland",
+    "percentage": 33.5
+  },
+  {
+    "region": "Santarém",
+    "year": "2018",
+    "total_patches": 17467,
+    "value": 4,
+    "label": "Grassland",
+    "percentage": 2.9
+  },
+  {
+    "region": "Santarém",
+    "year": "2018",
+    "total_patches": 17467,
+    "value": 5,
+    "label": "Sparse Vegetation",
+    "percentage": 0.8
+  },
+  {
+    "region": "Santarém",
+    "year": "2018",
+    "total_patches": 17467,
+    "value": 6,
+    "label": "Water",
+    "percentage": 4.5
+  },
+  {
+    "region": "Santarém",
+    "year": "2018",
+    "total_patches": 17467,
+    "value": 7,
+    "label": "Urban",
+    "percentage": 10.0
+  },
+  {
+    "region": "Setúbal",
+    "year": "2018",
+    "total_patches": 12928,
+    "value": 1,
+    "label": "Coniferous Forest",
+    "percentage": 8.1
+  },
+  {
+    "region": "Setúbal",
+    "year": "2018",
+    "total_patches": 12928,
+    "value": 2,
+    "label": "Broadleaf Forest",
+    "percentage": 50.0
+  },
+  {
+    "region": "Setúbal",
+    "year": "2018",
+    "total_patches": 12928,
+    "value": 3,
+    "label": "Shrubland",
+    "percentage": 15.8
+  },
+  {
+    "region": "Setúbal",
+    "year": "2018",
+    "total_patches": 12928,
+    "value": 4,
+    "label": "Grassland",
+    "percentage": 13.2
+  },
+  {
+    "region": "Setúbal",
+    "year": "2018",
+    "total_patches": 12928,
+    "value": 5,
+    "label": "Sparse Vegetation",
+    "percentage": 0.3
+  },
+  {
+    "region": "Setúbal",
+    "year": "2018",
+    "total_patches": 12928,
+    "value": 6,
+    "label": "Water",
+    "percentage": 8.5
+  },
+  {
+    "region": "Setúbal",
+    "year": "2018",
+    "total_patches": 12928,
+    "value": 7,
+    "label": "Urban",
+    "percentage": 4.1
+  },
+  {
+    "region": "Évora",
+    "year": "2018",
+    "total_patches": 12704,
+    "value": 1,
+    "label": "Coniferous Forest",
+    "percentage": 11.1
+  },
+  {
+    "region": "Évora",
+    "year": "2018",
+    "total_patches": 12704,
+    "value": 2,
+    "label": "Broadleaf Forest",
+    "percentage": 43.9
+  },
+  {
+    "region": "Évora",
+    "year": "2018",
+    "total_patches": 12704,
+    "value": 3,
+    "label": "Shrubland",
+    "percentage": 19.0
+  },
+  {
+    "region": "Évora",
+    "year": "2018",
+    "total_patches": 12704,
+    "value": 4,
+    "label": "Grassland",
+    "percentage": 8.0
+  },
+  {
+    "region": "Évora",
+    "year": "2018",
+    "total_patches": 12704,
+    "value": 5,
+    "label": "Sparse Vegetation",
+    "percentage": 1.2
+  },
+  {
+    "region": "Évora",
+    "year": "2018",
+    "total_patches": 12704,
+    "value": 6,
+    "label": "Water",
+    "percentage": 14.6
+  },
+  {
+    "region": "Évora",
+    "year": "2018",
+    "total_patches": 12704,
+    "value": 7,
+    "label": "Urban",
+    "percentage": 2.3
+  }
+]

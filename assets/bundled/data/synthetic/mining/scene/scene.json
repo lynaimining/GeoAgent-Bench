@@ -1,0 +1,9 @@
+{
+  "kind": "portable_scene_description",
+  "crs": "EPSG:28351",
+  "layers": [
+    "collar",
+    "interpretation_mesh"
+  ],
+  "camera": "choose in the installed application"
+}

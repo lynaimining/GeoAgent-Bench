@@ -1,0 +1,56 @@
+[
+  {
+    "medium": "2mm",
+    "Source": "Batch-1",
+    "n": 89,
+    "missing": 1,
+    "median": 13.125,
+    "min": 3.0,
+    "max": 51.25
+  },
+  {
+    "medium": "2mm",
+    "Source": "Batch-2",
+    "n": 89,
+    "missing": 0,
+    "median": 13.0,
+    "min": 0.0,
+    "max": 62.0
+  },
+  {
+    "medium": "2mm",
+    "Source": "Batch-3",
+    "n": 88,
+    "missing": 0,
+    "median": 13.625,
+    "min": -1.0,
+    "max": 60.75
+  },
+  {
+    "medium": "80mesh",
+    "Source": "Batch-1",
+    "n": 71,
+    "missing": 1,
+    "median": 13.25,
+    "min": 3.5,
+    "max": 57.0
+  },
+  {
+    "medium": "80mesh",
+    "Source": "Batch-2",
+    "n": 71,
+    "missing": 0,
+    "median": 12.75,
+    "min": 0.0,
+    "max": 47.5
+  },
+  {
+    "medium": "80mesh",
+    "Source": "Batch-3",
+    "n": 70,
+    "missing": 0,
+    "median": 13.0,
+    "min": -1.0,
+    "max": 58.25
+  }
+]

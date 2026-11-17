@@ -1,0 +1,44 @@
+{
+  "S01": {
+    "value": 0.12,
+    "censor": "measured"
+  },
+  "S02": {
+    "value": null,
+    "censor": "left",
+    "limit": 0.01
+  },
+  "S03": {
+    "value": null,
+    "censor": "not_detected_limit_unknown"
+  },
+  "S04": {
+    "value": null,
+    "censor": "missing"
+  },
+  "S05": {
+    "value": null,
+    "censor": "invalid"
+  },
+  "S06": {
+    "value": 2.4,
+    "censor": "measured"
+  },
+  "S07": {
+    "value": 0,
+    "censor": "measured"
+  },
+  "S08": {
+    "value": null,
+    "censor": "left",
+    "limit": 0.005
+  },
+  "S09": {
+    "value": null,
+    "censor": "invalid"
+  },
+  "S10": {
+    "value": 0.08,
+    "censor": "measured"
+  }
+}

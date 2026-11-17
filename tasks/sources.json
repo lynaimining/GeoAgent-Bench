@@ -1,0 +1,50 @@
+{
+  "GAB": {
+    "name": "GABench",
+    "url": "https://github.com/GeoX-Lab/GABench",
+    "revision": "357d0f531d55bfbd701a79a77af86c1db3b22325",
+    "license": "Apache-2.0 仓库；具体外部数据原始许可需看来源",
+    "path": "GABench/benchmark/benchmark.csv"
+  },
+  "GBX": {
+    "name": "GeoBenchX",
+    "url": "https://github.com/Solirinai/GeoBenchX",
+    "revision": "0edf6109ea5dca3e70fdfe081d39c9ccd0f832fb",
+    "license": "MIT 代码；输入数据按 Data_Sources.bib 各来源",
+    "path": "GeoBenchX/benchmark_set/tasks_and_reference_solutions.json"
+  },
+  "GAE": {
+    "name": "GeoAgentEval",
+    "url": "https://github.com/hsd2514/geoagenteval",
+    "revision": "3da32ce6eb13dac8e0ac263e1e9830da67b8a56b",
+    "license": "MIT；作者提供合成 PostGIS 世界",
+    "path": "GeoAgentEval/tasks"
+  },
+  "EARTH": {
+    "name": "Earth-Bench-V2",
+    "url": "https://huggingface.co/datasets/LvZTTTT/Earth-Bench-V2",
+    "revision": "5115836f47f19c15c79c8ee3ca6f10869bd6eaf2",
+    "license": "数据 CC-BY-NC-4.0；与 Earth-Agent 代码 MIT 区分",
+    "path": "Earth-Bench-V2/question.json"
+  },
+  "GNA": {
+    "name": "GeoNatureAgent",
+    "url": "https://github.com/gabrielireland/GeoNatureAgent_Benchmark",
+    "revision": "88daf4d299f68688d5153f1d6a1e9530ffba17bd",
+    "license": "Apache-2.0 代码；Zenodo 数据包 CC-BY-4.0，原始资料另看来源",
+    "path": "GeoNatureAgent/geoagentbench/cases/benchmark_v7.json"
+  },
+  "OEA": {
+    "name": "OpenEarthAgent",
+    "url": "https://huggingface.co/datasets/MBZUAI/OpenEarthAgent",
+    "revision": "e7174ddb960777ed8395393bc435c74596a6a20c",
+    "license": "数据集 Apache-2.0；底层 OSM 等数据权利另行保留",
+    "path": "OpenEarthAgent-test/test.json"
+  },
+  "SYNTH": {
+    "name": "GeoAgent-Bench synthetic fixtures",
+    "path": "geoagent_bench/fixtures.py",
+    "revision": "public-1.0",
+    "license": "See DATA_LICENSES.md"
+  }
+}

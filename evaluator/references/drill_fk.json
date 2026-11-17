@@ -1,0 +1,69 @@
+{
+  "orphan_rows": {
+    "survey": [],
+    "assay": [],
+    "litho": []
+  },
+  "per_hole": {
+    "DEMO-1-01": {
+      "collar": 1,
+      "survey": 4,
+      "assay": 11,
+      "litho": 3
+    },
+    "DEMO-1-02": {
+      "collar": 1,
+      "survey": 4,
+      "assay": 12,
+      "litho": 3
+    },
+    "DEMO-1-03": {
+      "collar": 1,
+      "survey": 4,
+      "assay": 14,
+      "litho": 3
+    },
+    "DEMO-1-04": {
+      "collar": 1,
+      "survey": 4,
+      "assay": 15,
+      "litho": 3
+    },
+    "DEMO-1-05": {
+      "collar": 1,
+      "survey": 4,
+      "assay": 11,
+      "litho": 3
+    },
+    "DEMO-1-06": {
+      "collar": 1,
+      "survey": 4,
+      "assay": 12,
+      "litho": 3
+    },
+    "DEMO-1-07": {
+      "collar": 1,
+      "survey": 4,
+      "assay": 14,
+      "litho": 3
+    },
+    "DEMO-1-08": {
+      "collar": 1,
+      "survey": 4,
+      "assay": 15,
+      "litho": 3
+    },
+    "DEMO-1-09": {
+      "collar": 1,
+      "survey": 4,
+      "assay": 11,
+      "litho": 3
+    },
+    "DEMO-1-10": {
+      "collar": 1,
+      "survey": 0,
+      "assay": 12,
+      "litho": 3
+    }
+  }
+}

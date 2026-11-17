@@ -1,0 +1,43 @@
+{
+  "rows": 387,
+  "unique_xyz": 385,
+  "accepted_xyz": 384,
+  "duplicates": [
+    [
+      5,
+      386
+    ],
+    [
+      8,
+      387
+    ]
+  ],
+  "conflicts": [
+    [
+      8,
+      387
+    ]
+  ],
+  "by_domain": {
+    "Basement": {
+      "count": 77,
+      "volume_m3": 9625
+    },
+    "Intrusive": {
+      "count": 77,
+      "volume_m3": 9625
+    },
+    "Regolith": {
+      "count": 77,
+      "volume_m3": 9625
+    },
+    "Surficial": {
+      "count": 77,
+      "volume_m3": 9625
+    },
+    "Volcanic": {
+      "count": 76,
+      "volume_m3": 9500
+    }
+  }
+}

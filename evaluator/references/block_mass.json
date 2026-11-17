@@ -1,0 +1,36 @@
+{
+  "density_t_m3": 2.7,
+  "excluded_conflicting_groups": [
+    [
+      8,
+      387
+    ]
+  ],
+  "by_domain": {
+    "Basement": {
+      "count": 77,
+      "volume_m3": 9625,
+      "tonnes": 25987.5
+    },
+    "Intrusive": {
+      "count": 77,
+      "volume_m3": 9625,
+      "tonnes": 25987.5
+    },
+    "Regolith": {
+      "count": 77,
+      "volume_m3": 9625,
+      "tonnes": 25987.5
+    },
+    "Surficial": {
+      "count": 77,
+      "volume_m3": 9625,
+      "tonnes": 25987.5
+    },
+    "Volcanic": {
+      "count": 76,
+      "volume_m3": 9500,
+      "tonnes": 25650.0
+    }
+  }
+}

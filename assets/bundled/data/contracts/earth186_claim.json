@@ -1,0 +1,6 @@
+{
+  "source": "Earth-Bench-V2 question186",
+  "task_claim": "total building volume change",
+  "reference_operation": "calc_batch_image_mean",
+  "local_question": "Compare total and mean statistics using actual support and masks."
+}

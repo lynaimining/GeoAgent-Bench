@@ -1,0 +1,30 @@
+{
+  "purpose": "Source identities for the licensing/register task; interpret the actual attached license texts separately.",
+  "candidates": [
+    {
+      "name": "GABench",
+      "task_id": "20",
+      "revision": "357d0f531d55bfbd701a79a77af86c1db3b22325",
+      "url": "https://github.com/GeoX-Lab/GABench"
+    },
+    {
+      "name": "GeoBenchX",
+      "task_id": "TASK_250309_135125_332083",
+      "local_zero_based_index": 15,
+      "revision": "0edf6109ea5dca3e70fdfe081d39c9ccd0f832fb",
+      "url": "https://github.com/Solirinai/GeoBenchX"
+    },
+    {
+      "name": "Earth-Bench-V2",
+      "task_id": "129",
+      "revision": "5115836f47f19c15c79c8ee3ca6f10869bd6eaf2",
+      "url": "https://huggingface.co/datasets/LvZTTTT/Earth-Bench-V2"
+    },
+    {
+      "name": "GeoNatureAgent",
+      "task_id_prefix": "V5_31",
+      "revision": "88daf4d299f68688d5153f1d6a1e9530ffba17bd",
+      "url": "https://github.com/gabrielireland/GeoNatureAgent_Benchmark"
+    }
+  ]
+}

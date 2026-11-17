@@ -1,0 +1,56 @@
+{
+  "rows": [
+    {
+      "hole_id": "DEMO-2-01",
+      "max_depth_m": 32.0,
+      "covered_m": 32.0,
+      "coverage_fraction": 1.0,
+      "gaps": [],
+      "beyond_bottom_rows": []
+    },
+    {
+      "hole_id": "DEMO-2-02",
+      "max_depth_m": 36.0,
+      "covered_m": 30.0,
+      "coverage_fraction": 0.8333333333333334,
+      "gaps": [
+        [
+          0.0,
+          3.0
+        ],
+        [
+          9.0,
+          12.0
+        ]
+      ],
+      "beyond_bottom_rows": [
+        22
+      ]
+    },
+    {
+      "hole_id": "DEMO-2-03",
+      "max_depth_m": 40.0,
+      "covered_m": 40.0,
+      "coverage_fraction": 1.0,
+      "gaps": [],
+      "beyond_bottom_rows": []
+    },
+    {
+      "hole_id": "DEMO-2-04",
+      "max_depth_m": 44.0,
+      "covered_m": 44.0,
+      "coverage_fraction": 1.0,
+      "gaps": [],
+      "beyond_bottom_rows": []
+    },
+    {
+      "hole_id": "DEMO-2-05",
+      "max_depth_m": 32.0,
+      "covered_m": 32.0,
+      "coverage_fraction": 1.0,
+      "gaps": [],
+      "beyond_bottom_rows": []
+    }
+  ],
+  "invalid_intervals": []
+}

@@ -1,0 +1,443 @@
+{
+  "daily": [
+    {
+      "city": "Aracaju",
+      "date": "2025-01-01",
+      "valid_n": 163,
+      "mean": 0.0,
+      "zeros": 163
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-02",
+      "valid_n": 163,
+      "mean": 0.0,
+      "zeros": 163
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-03",
+      "valid_n": 163,
+      "mean": 0.0,
+      "zeros": 163
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-04",
+      "valid_n": 163,
+      "mean": 0.0,
+      "zeros": 163
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-05",
+      "valid_n": 163,
+      "mean": 0.0,
+      "zeros": 163
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-06",
+      "valid_n": 163,
+      "mean": 1.435264736596792,
+      "zeros": 137
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-07",
+      "valid_n": 163,
+      "mean": 0.0,
+      "zeros": 163
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-08",
+      "valid_n": 163,
+      "mean": 0.0,
+      "zeros": 163
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-09",
+      "valid_n": 163,
+      "mean": 0.15602193142007464,
+      "zeros": 161
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-10",
+      "valid_n": 163,
+      "mean": 29.195937718350464,
+      "zeros": 0
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-11",
+      "valid_n": 163,
+      "mean": 18.45263237455871,
+      "zeros": 0
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-12",
+      "valid_n": 163,
+      "mean": 21.179917265301103,
+      "zeros": 0
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-13",
+      "valid_n": 163,
+      "mean": 1.7088994160751623,
+      "zeros": 120
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-14",
+      "valid_n": 163,
+      "mean": 7.94330229495932,
+      "zeros": 41
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-15",
+      "valid_n": 163,
+      "mean": 5.68989663036323,
+      "zeros": 76
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-16",
+      "valid_n": 163,
+      "mean": 0.16028590875169252,
+      "zeros": 150
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-17",
+      "valid_n": 163,
+      "mean": 0.0,
+      "zeros": 163
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-18",
+      "valid_n": 163,
+      "mean": 0.17784884297774614,
+      "zeros": 153
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-19",
+      "valid_n": 163,
+      "mean": 0.6532198552705027,
+      "zeros": 122
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-20",
+      "valid_n": 163,
+      "mean": 0.0,
+      "zeros": 163
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-21",
+      "valid_n": 163,
+      "mean": 0.07747361125664477,
+      "zeros": 0
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-22",
+      "valid_n": 163,
+      "mean": 0.11267228196003685,
+      "zeros": 0
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-23",
+      "valid_n": 163,
+      "mean": 4.045165264208146e-06,
+      "zeros": 12
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-24",
+      "valid_n": 163,
+      "mean": 0.29083378868966014,
+      "zeros": 0
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-25",
+      "valid_n": 163,
+      "mean": 0.9381903614734579,
+      "zeros": 0
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-26",
+      "valid_n": 163,
+      "mean": 0.0,
+      "zeros": 163
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-27",
+      "valid_n": 163,
+      "mean": 0.13028857898127083,
+      "zeros": 157
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-28",
+      "valid_n": 163,
+      "mean": 0.0,
+      "zeros": 163
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-29",
+      "valid_n": 163,
+      "mean": 0.0,
+      "zeros": 163
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-30",
+      "valid_n": 163,
+      "mean": 0.0,
+      "zeros": 163
+    },
+    {
+      "city": "Aracaju",
+      "date": "2025-01-31",
+      "valid_n": 163,
+      "mean": 0.0,
+      "zeros": 163
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-01",
+      "valid_n": 167,
+      "mean": 1.2584230130661034,
+      "zeros": 35
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-02",
+      "valid_n": 167,
+      "mean": 1.470825668937432,
+      "zeros": 14
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-03",
+      "valid_n": 167,
+      "mean": 0.007410112701490254,
+      "zeros": 163
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-04",
+      "valid_n": 167,
+      "mean": 0.002678294203238573,
+      "zeros": 166
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-05",
+      "valid_n": 167,
+      "mean": 0.04325281485112127,
+      "zeros": 161
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-06",
+      "valid_n": 167,
+      "mean": 0.02223862859303366,
+      "zeros": 165
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-07",
+      "valid_n": 167,
+      "mean": 0.987503619251137,
+      "zeros": 101
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-08",
+      "valid_n": 167,
+      "mean": 0.021874445998026227,
+      "zeros": 162
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-09",
+      "valid_n": 167,
+      "mean": 0.04191116551439205,
+      "zeros": 159
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-10",
+      "valid_n": 167,
+      "mean": 0.40091013658546404,
+      "zeros": 128
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-11",
+      "valid_n": 167,
+      "mean": 0.2901124258241254,
+      "zeros": 124
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-12",
+      "valid_n": 167,
+      "mean": 2.3195664052834766,
+      "zeros": 42
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-13",
+      "valid_n": 167,
+      "mean": 0.0,
+      "zeros": 167
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-14",
+      "valid_n": 167,
+      "mean": 0.0,
+      "zeros": 167
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-15",
+      "valid_n": 167,
+      "mean": 0.0,
+      "zeros": 167
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-16",
+      "valid_n": 167,
+      "mean": 0.0,
+      "zeros": 167
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-17",
+      "valid_n": 167,
+      "mean": 0.0,
+      "zeros": 167
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-18",
+      "valid_n": 167,
+      "mean": 0.1969979965758181,
+      "zeros": 150
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-19",
+      "valid_n": 167,
+      "mean": 0.21038711285162828,
+      "zeros": 148
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-20",
+      "valid_n": 167,
+      "mean": 0.0057998520885399005,
+      "zeros": 166
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-21",
+      "valid_n": 167,
+      "mean": 0.30033813280884375,
+      "zeros": 0
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-22",
+      "valid_n": 167,
+      "mean": 0.19735645292003354,
+      "zeros": 0
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-23",
+      "valid_n": 167,
+      "mean": 0.9309344734260422,
+      "zeros": 0
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-24",
+      "valid_n": 167,
+      "mean": 0.444664824107093,
+      "zeros": 0
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-25",
+      "valid_n": 167,
+      "mean": 0.11566099660571463,
+      "zeros": 0
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-26",
+      "valid_n": 167,
+      "mean": 0.508261256053776,
+      "zeros": 94
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-27",
+      "valid_n": 167,
+      "mean": 0.5033280853025928,
+      "zeros": 123
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-28",
+      "valid_n": 167,
+      "mean": 1.0165235512627813,
+      "zeros": 47
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-29",
+      "valid_n": 167,
+      "mean": 0.20959289719958504,
+      "zeros": 134
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-30",
+      "valid_n": 167,
+      "mean": 0.0008823155999897483,
+      "zeros": 166
+    },
+    {
+      "city": "Lima",
+      "date": "2025-01-31",
+      "valid_n": 167,
+      "mean": 0.6461949234237214,
+      "zeros": 90
+    }
+  ],
+  "mean": {
+    "Aracaju": 2.8484738594242303,
+    "Lima": 0.39205256777532904
+  },
+  "difference_Aracaju_minus_Lima": 2.456421291648901
+}
