@@ -1,8 +1,8 @@
-import json
 import sys
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
 from geoagent_bench.common import ROOT, lookup, read_json, rubric_for
 from geoagent_bench.data import Inputs
@@ -40,6 +40,21 @@ class ProtocolTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as folder:
             with self.assertRaisesRegex(ValueError, "CC BY-NC"):
                 prepare(task, Inputs(Path(folder) / "cache", offline=True), Path(folder) / "case")
+
+
+    def test_earth_prompt_uses_only_question_and_choice_fields(self):
+        task = lookup("G200-06-S18")
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            roster = root / "source.json"
+            roster.write_text(
+                '{"210": {"evaluation": [{"question": "Measure the area.", "gt_answer": "hidden"}],'
+                ' "choices": [3, 4], "dialogs": ["hidden"]}, "unused": NaN}',
+                encoding="utf-8",
+            )
+            loader = Inputs(root / "cache", offline=True, accept_nc=True)
+            with patch.object(loader, "_payload", return_value=roster):
+                self.assertEqual(loader.source_prompt(task), "Measure the area.\n\nA. 3\nB. 4")
 
 
 if __name__ == "__main__":

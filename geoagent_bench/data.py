@@ -2,6 +2,7 @@
 
 import hashlib
 import io
+import json
 import shutil
 import subprocess
 import sys
@@ -169,8 +170,16 @@ class Inputs:
         prompt = task.get("original_prompt", "")
         key = task.get("earth_original")
         if key:
-            record = read_json(self._payload("earth-questions.json"))[key]
+            # The source roster has NaN sentinels in fields unrelated to the
+            # selected question. Keep only the question and choices.
+            roster = json.loads(
+                self._payload("earth-questions.json").read_text(encoding="utf-8-sig"),
+                parse_constant=lambda _token: None,
+            )
+            record = roster[key]
             prompt = record["evaluation"][0]["question"]
+            if not isinstance(prompt, str) or not prompt.strip():
+                raise ValueError(f"Missing upstream question text: {key}")
             choices = record.get("choices")
             if isinstance(choices, dict):
                 rendered = "\n".join(f"{key}. {value}" for key, value in choices.items())
